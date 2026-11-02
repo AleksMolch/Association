@@ -1,56 +1,114 @@
-# Welcome to your Expo app 👋
+# Association — английские слова через ассоциации
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Локальное мобильное приложение для запоминания английских слов через русские
+созвучные ассоциации и книжные иллюстрации. Работает офлайн, без аккаунта и
+синхронизации; прогресс хранится только на устройстве.
 
-## Get started
+## Контент
 
-1. Install dependencies
+- **1480 слов** (из исходных 1541 исключены 61 слово без выбранных ассоциаций);
+- **2668 ассоциаций** — у слова 1–3 варианта;
+- **2664 изображения** WebP + 4 временных плейсхолдера
+  (`doom`, `furniture`, `glance` ×2);
+- каждое слово: английское написание, IPA, русская подсказка произношения,
+  перевод, ключ, сцена и иллюстрация.
 
-   ```bash
-   npm install
-   ```
+Исходные выгрузки для пересборки контента лежат в `content-source/`.
+Готовый контент-пак — `src/content/words.json`; карта изображений для Metro —
+`src/content/imageMap.ts`.
 
-2. Start the app
+## Стек
 
-   ```bash
-   npx expo start
-   ```
+- Expo SDK 58, React Native, React 19, TypeScript;
+- Expo Router (вкладки + stack-экраны);
+- `expo-sqlite` — карточки, повторения, выбранные ассоциации;
+- `ts-fsrs` — планирование повторений;
+- `expo-image` — локальные иллюстрации;
+- `expo-speech` — произношение;
+- `expo-notifications` — локальные напоминания;
+- `@react-native-async-storage/async-storage` — восстановление сессии.
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **src/app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## Запуск
 
 ```bash
-npm run reset-project
+npm install
+npm start
 ```
 
-This command will move the starter code to the **example** directory and create a blank **src/app** directory where you can start developing.
+Далее откройте проект в Expo Go или в dev build:
 
-### Other setup steps
+```bash
+npm run ios
+npm run android
+```
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+Проверки:
 
-## Learn more
+```bash
+npm run typecheck
+npm run check:content
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+## Что реализовано
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- **Сегодня**: streak, дневная цель, к повторению, preview нового слова,
+  сложные слова, старт/продолжение занятия.
+- **Новое слово**: English, IPA, TTS, перевод, свайп-дек ассоциаций,
+  обязательная кнопка подтверждения, «Проверь себя».
+- **Повторение**: скрытый ответ, отдельные «Показать подсказку» и
+  «Показать ответ», оценки Again / Hard / Good / Easy, FSRS-интервал.
+- **Слова**: поиск, фильтры, статус FSRS, детали и замена ассоциации без
+  сброса прогресса.
+- **Прогресс**: повторения за 7 дней, состояния FSRS, сложные слова.
+- **Настройки**: цель 5/10/15/20, скорость TTS, подсказки, напоминания,
+  reduced motion, версия контента, очистка прогресса.
+- **Локальность**: нет сетевых запросов для обучения; все данные в SQLite.
 
-## Join the community
+## Структура
 
-Join our community of developers creating universal apps.
+```text
+src/app/            экраны Expo Router
+src/components/     UI-компоненты и свайп-дек
+src/content/        words.json, imageMap.ts, типы
+src/domain/         FSRS-адаптер, планирование сессии, типы
+src/storage/        SQLite-схема и репозиторий
+src/state/          AppProvider и сохранение незавершённой сессии
+src/audio/          TTS-адаптер
+src/ads/            интерфейс AdsService (MVP: Noop)
+src/notifications/  локальные напоминания
+src/theme/          палитра и отступы
+assets/images/words/ 2664 иллюстрации WebP
+content-source/     исходные JSON для пересборки контента
+scripts/            build-content.js, check-content.js
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Пересборка контента
+
+Если обновились `content-source/candidates.json` или
+`content-source/image_inventory.json`:
+
+```bash
+node scripts/build-content.js
+npm run check:content
+```
+
+Скрипт собирает `src/content/words.json`, генерирует `src/content/imageMap.ts`
+(статические `require` для Metro) и подставляет `placeholder.png` для
+отсутствующих изображений.
+
+## Ограничения MVP
+
+- **Реклама**: подключён только интерфейс `AdsService` и визуальный
+  placeholder; нативный Yandex Mobile Ads SDK требует ключей и dev build.
+- **Изображения**: 4 ассоциации без готовых иллюстраций показывают
+  плейсхолдер.
+- **Одна ассоциация**: 437 слов имеют только один выбранный вариант; модель
+  и UI поддерживает 1–5, пользователь сможет добавить свой вариант позже.
+- **Письмо**: настройка `writingEnabled` зарезервирована, письменные
+  упражнения появятся в следующем обновлении.
+- **Web**: приложение оптимизировано под iOS/Android; `expo-sqlite` и
+  напоминания на web ограничены.
+
+## Репозиторий
+
+https://github.com/AleksMolch/Association.git

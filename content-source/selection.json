@@ -1,0 +1,9537 @@
+{
+ "version": 1,
+ "exportedAt": "2026-10-27T09:16:55.125Z",
+ "cursor": 1650,
+ "totals": {
+  "words": 1480,
+  "complete": 1043,
+  "incomplete": 437,
+  "empty": 0,
+  "custom": 584
+ },
+ "selections": {
+  "1": [
+   "gptA",
+   "gptB"
+  ],
+  "2": [
+   "gptA",
+   "origB"
+  ],
+  "3": [
+   "origB",
+   "new:3:fix1"
+  ],
+  "4": [
+   "gptA",
+   "gptB"
+  ],
+  "5": [
+   "gptA",
+   "gptB"
+  ],
+  "6": [
+   "gptB",
+   "gptA"
+  ],
+  "7": [
+   "gptA",
+   "origB"
+  ],
+  "8": [
+   "gptA",
+   "origB"
+  ],
+  "9": [
+   "gptA",
+   "new:9:fix1"
+  ],
+  "10": [
+   "custom:c1",
+   "gptB",
+   "origB"
+  ],
+  "11": [
+   "gptA",
+   "new:11:fix1"
+  ],
+  "12": [
+   "origB",
+   "origA",
+   "gptB"
+  ],
+  "13": [
+   "gptA",
+   "new:13:fix1"
+  ],
+  "14": [
+   "gptA",
+   "origB"
+  ],
+  "15": [
+   "custom:c1",
+   "gptA"
+  ],
+  "16": [
+   "gptA",
+   "custom:c1"
+  ],
+  "17": [
+   "gptA",
+   "custom:c1"
+  ],
+  "18": [
+   "gptA",
+   "custom:c1",
+   "gptB"
+  ],
+  "19": [
+   "gptA",
+   "gptB"
+  ],
+  "20": [
+   "origB",
+   "gptA"
+  ],
+  "21": [
+   "gptB",
+   "new:21:fix1"
+  ],
+  "22": [
+   "custom:c1",
+   "gptA"
+  ],
+  "23": [
+   "custom:c1",
+   "gptA"
+  ],
+  "24": [
+   "gptB",
+   "gptA",
+   "origB"
+  ],
+  "25": [
+   "gptA",
+   "gptB",
+   "origB"
+  ],
+  "26": [
+   "gptA",
+   "gptB",
+   "origA"
+  ],
+  "27": [
+   "gptB",
+   "gptA"
+  ],
+  "28": [
+   "gptA",
+   "origB",
+   "gptB"
+  ],
+  "29": [
+   "gptA",
+   "custom:c1"
+  ],
+  "30": [
+   "gptB",
+   "custom:c1"
+  ],
+  "31": [
+   "custom:c1",
+   "origB"
+  ],
+  "32": [
+   "custom:c1",
+   "new:32:fix1"
+  ],
+  "33": [
+   "origA",
+   "new:33:fix1"
+  ],
+  "34": [
+   "gptA",
+   "gptB",
+   "origB"
+  ],
+  "35": [
+   "origA",
+   "custom:c1"
+  ],
+  "36": [
+   "origB",
+   "new:36:fix1"
+  ],
+  "37": [
+   "gptA",
+   "new:37:fix1"
+  ],
+  "38": [
+   "gptB",
+   "gptA"
+  ],
+  "39": [
+   "gptB",
+   "origA"
+  ],
+  "40": [
+   "gptB",
+   "gptA"
+  ],
+  "42": [
+   "gptB",
+   "gptA"
+  ],
+  "43": [
+   "gptA",
+   "gptB"
+  ],
+  "44": [
+   "gptB",
+   "origB"
+  ],
+  "45": [
+   "origB",
+   "gptB",
+   "gptA"
+  ],
+  "46": [
+   "gptA",
+   "origB"
+  ],
+  "47": [
+   "new:47:fix1",
+   "new:47:fix2"
+  ],
+  "48": [
+   "gptA",
+   "gptB"
+  ],
+  "50": [
+   "gptA",
+   "origB",
+   "gptB"
+  ],
+  "51": [
+   "new:51:fix2"
+  ],
+  "52": [
+   "gptA",
+   "custom:c1"
+  ],
+  "53": [
+   "custom:c1",
+   "gptB"
+  ],
+  "56": [
+   "gptB",
+   "custom:c1"
+  ],
+  "57": [
+   "gptB",
+   "custom:c1"
+  ],
+  "58": [
+   "gptA"
+  ],
+  "59": [
+   "gptA",
+   "origB"
+  ],
+  "61": [
+   "custom:c1",
+   "origB"
+  ],
+  "62": [
+   "origB",
+   "custom:c1",
+   "custom:c2"
+  ],
+  "64": [
+   "gptA",
+   "gptB"
+  ],
+  "65": [
+   "gptA",
+   "gptB"
+  ],
+  "69": [
+   "custom:c1",
+   "origB"
+  ],
+  "70": [
+   "gptA",
+   "gptB"
+  ],
+  "71": [
+   "gptB",
+   "gptA"
+  ],
+  "73": [
+   "gptB",
+   "custom:c1"
+  ],
+  "75": [
+   "gptB",
+   "custom:c1",
+   "gptA"
+  ],
+  "76": [
+   "gptB",
+   "gptA"
+  ],
+  "77": [
+   "gptB",
+   "new:77:fix1"
+  ],
+  "78": [
+   "custom:c1",
+   "gptB",
+   "custom:c2"
+  ],
+  "79": [
+   "origB",
+   "custom:c1"
+  ],
+  "80": [
+   "custom:c1",
+   "gptA"
+  ],
+  "81": [
+   "gptA",
+   "custom:c1"
+  ],
+  "82": [
+   "custom:c1",
+   "gptA",
+   "gptB"
+  ],
+  "83": [
+   "gptB",
+   "custom:c1"
+  ],
+  "84": [
+   "gptB",
+   "new:84:fix1"
+  ],
+  "85": [
+   "gptA"
+  ],
+  "86": [
+   "origA",
+   "gptA"
+  ],
+  "87": [
+   "gptA"
+  ],
+  "88": [
+   "gptA",
+   "new:88:fix1"
+  ],
+  "89": [
+   "gptB",
+   "new:89:fix1"
+  ],
+  "90": [
+   "gptA",
+   "gptB"
+  ],
+  "91": [
+   "gptA",
+   "gptB"
+  ],
+  "92": [
+   "gptA",
+   "gptB"
+  ],
+  "93": [
+   "gptA",
+   "origB"
+  ],
+  "94": [
+   "gptA",
+   "gptB"
+  ],
+  "95": [
+   "gptB",
+   "gptA"
+  ],
+  "96": [
+   "gptB",
+   "custom:c1"
+  ],
+  "97": [
+   "gptB",
+   "new:97:fix1"
+  ],
+  "98": [
+   "gptA",
+   "origB"
+  ],
+  "99": [
+   "custom:c1",
+   "gptA"
+  ],
+  "100": [
+   "custom:c1",
+   "gptA"
+  ],
+  "101": [
+   "gptA"
+  ],
+  "102": [
+   "gptA",
+   "custom:c1"
+  ],
+  "103": [
+   "gptA",
+   "gptB"
+  ],
+  "104": [
+   "gptA",
+   "origB"
+  ],
+  "105": [
+   "origA",
+   "gptB"
+  ],
+  "106": [
+   "gptA",
+   "gptB"
+  ],
+  "107": [
+   "gptA",
+   "origB"
+  ],
+  "108": [
+   "gptB",
+   "gptA"
+  ],
+  "109": [
+   "gptA",
+   "gptB"
+  ],
+  "110": [
+   "gptA",
+   "custom:c1"
+  ],
+  "111": [
+   "gptA",
+   "custom:c1",
+   "gptB"
+  ],
+  "112": [
+   "gptA",
+   "new:112:fix1"
+  ],
+  "113": [
+   "custom:c1",
+   "gptA"
+  ],
+  "114": [
+   "gptA",
+   "origB"
+  ],
+  "115": [
+   "gptA",
+   "custom:c1"
+  ],
+  "116": [
+   "custom:c1",
+   "new:116:fix1"
+  ],
+  "117": [
+   "gptA",
+   "gptB"
+  ],
+  "118": [
+   "gptA",
+   "origB"
+  ],
+  "119": [
+   "new:119:fix1",
+   "new:119:fix2"
+  ],
+  "120": [
+   "custom:c1",
+   "gptB",
+   "origA"
+  ],
+  "121": [
+   "gptA",
+   "custom:c1"
+  ],
+  "123": [
+   "custom:c1",
+   "gptB"
+  ],
+  "124": [
+   "gptB",
+   "origA"
+  ],
+  "125": [
+   "custom:c1",
+   "gptA"
+  ],
+  "126": [
+   "gptA",
+   "gptB",
+   "origB"
+  ],
+  "127": [
+   "new:127:fix1",
+   "new:127:fix2"
+  ],
+  "128": [
+   "gptA",
+   "gptB"
+  ],
+  "129": [
+   "gptB",
+   "gptA"
+  ],
+  "130": [
+   "gptB",
+   "gptA"
+  ],
+  "131": [
+   "gptB",
+   "origB"
+  ],
+  "132": [
+   "origB",
+   "gptA"
+  ],
+  "133": [
+   "gptA",
+   "gptB"
+  ],
+  "134": [
+   "gptA"
+  ],
+  "135": [
+   "gptA",
+   "new:135:fix1"
+  ],
+  "136": [
+   "gptA",
+   "gptB"
+  ],
+  "137": [
+   "gptB",
+   "gptA"
+  ],
+  "138": [
+   "gptA",
+   "gptB"
+  ],
+  "139": [
+   "gptA",
+   "gptB"
+  ],
+  "140": [
+   "gptA",
+   "origA",
+   "custom:c1"
+  ],
+  "141": [
+   "gptB",
+   "gptA"
+  ],
+  "142": [
+   "gptA",
+   "gptB"
+  ],
+  "143": [
+   "gptB",
+   "gptA"
+  ],
+  "144": [
+   "gptB",
+   "gptA",
+   "custom:c1"
+  ],
+  "145": [
+   "gptA",
+   "new:145:fix1"
+  ],
+  "146": [
+   "gptB",
+   "custom:c1"
+  ],
+  "147": [
+   "gptA",
+   "gptB"
+  ],
+  "148": [
+   "gptA",
+   "custom:c1"
+  ],
+  "149": [
+   "origB",
+   "new:149:fix1"
+  ],
+  "150": [
+   "gptB",
+   "new:150:fix1"
+  ],
+  "151": [
+   "gptA",
+   "gptB"
+  ],
+  "153": [
+   "gptB",
+   "new:153:fix1"
+  ],
+  "155": [
+   "custom:c1",
+   "gptA"
+  ],
+  "156": [
+   "gptA",
+   "gptB"
+  ],
+  "157": [
+   "gptA",
+   "gptB"
+  ],
+  "158": [
+   "gptA",
+   "gptB"
+  ],
+  "159": [
+   "gptA",
+   "gptB"
+  ],
+  "160": [
+   "gptB",
+   "new:160:fix1"
+  ],
+  "161": [
+   "gptA",
+   "gptB"
+  ],
+  "162": [
+   "gptA",
+   "gptB"
+  ],
+  "163": [
+   "gptB",
+   "gptA"
+  ],
+  "164": [
+   "gptA",
+   "gptB"
+  ],
+  "165": [
+   "gptB",
+   "gptA"
+  ],
+  "166": [
+   "new:166:fix1",
+   "new:166:fix2"
+  ],
+  "167": [
+   "gptB",
+   "new:167:fix1"
+  ],
+  "168": [
+   "gptA",
+   "gptB"
+  ],
+  "169": [
+   "custom:c1",
+   "new:169:fix1"
+  ],
+  "170": [
+   "gptA",
+   "gptB"
+  ],
+  "171": [
+   "gptA",
+   "custom:c1"
+  ],
+  "172": [
+   "gptA",
+   "origB"
+  ],
+  "173": [
+   "gptB",
+   "gptA"
+  ],
+  "174": [
+   "gptA",
+   "gptB"
+  ],
+  "175": [
+   "custom:c1",
+   "gptA"
+  ],
+  "176": [
+   "gptA",
+   "gptB"
+  ],
+  "177": [
+   "gptA",
+   "gptB"
+  ],
+  "178": [
+   "gptB",
+   "custom:c1"
+  ],
+  "179": [
+   "custom:c1",
+   "gptB"
+  ],
+  "180": [
+   "custom:c1",
+   "new:180:fix1"
+  ],
+  "181": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "182": [
+   "gptB",
+   "custom:c1",
+   "gptA"
+  ],
+  "183": [
+   "gptB",
+   "custom:c1"
+  ],
+  "184": [
+   "gptA",
+   "gptB"
+  ],
+  "185": [
+   "gptB",
+   "custom:c1"
+  ],
+  "186": [
+   "gptB",
+   "custom:c1"
+  ],
+  "187": [
+   "gptA",
+   "gptB"
+  ],
+  "188": [
+   "gptA",
+   "gptB"
+  ],
+  "189": [
+   "gptA",
+   "gptB"
+  ],
+  "190": [
+   "gptA",
+   "gptB"
+  ],
+  "191": [
+   "gptA",
+   "gptB"
+  ],
+  "192": [
+   "gptA",
+   "gptB"
+  ],
+  "193": [
+   "gptB",
+   "gptA"
+  ],
+  "194": [
+   "gptA",
+   "origB"
+  ],
+  "195": [
+   "gptA",
+   "custom:c1"
+  ],
+  "196": [
+   "custom:c1",
+   "new:196:fix1"
+  ],
+  "197": [
+   "gptB",
+   "gptA"
+  ],
+  "198": [
+   "gptA",
+   "gptB"
+  ],
+  "199": [
+   "gptB",
+   "gptA"
+  ],
+  "200": [
+   "gptB",
+   "new:200:fix1"
+  ],
+  "201": [
+   "gptB",
+   "new:201:fix1"
+  ],
+  "202": [
+   "gptA",
+   "gptB"
+  ],
+  "203": [
+   "gptA",
+   "gptB"
+  ],
+  "204": [
+   "origB",
+   "custom:c1"
+  ],
+  "205": [
+   "gptA",
+   "new:205:fix1"
+  ],
+  "206": [
+   "gptB",
+   "gptA"
+  ],
+  "207": [
+   "gptB",
+   "custom:c1"
+  ],
+  "208": [
+   "gptA",
+   "origA",
+   "gptB"
+  ],
+  "209": [
+   "gptA",
+   "gptB"
+  ],
+  "210": [
+   "gptA",
+   "custom:c1"
+  ],
+  "211": [
+   "gptA",
+   "origA"
+  ],
+  "212": [
+   "gptA",
+   "gptB"
+  ],
+  "213": [
+   "gptB",
+   "origA"
+  ],
+  "214": [
+   "gptA"
+  ],
+  "215": [
+   "gptA"
+  ],
+  "216": [
+   "gptA",
+   "gptB",
+   "origB"
+  ],
+  "217": [
+   "gptB",
+   "gptA"
+  ],
+  "218": [
+   "gptA",
+   "gptB",
+   "origA"
+  ],
+  "219": [
+   "origA",
+   "gptA"
+  ],
+  "220": [
+   "gptB",
+   "new:220:fix1"
+  ],
+  "221": [
+   "gptA",
+   "gptB"
+  ],
+  "222": [
+   "gptB",
+   "new:222:fix1"
+  ],
+  "223": [
+   "gptA",
+   "gptB"
+  ],
+  "225": [
+   "gptB",
+   "new:225:fix1"
+  ],
+  "226": [
+   "gptA"
+  ],
+  "227": [
+   "gptA",
+   "new:227:fix1"
+  ],
+  "228": [
+   "gptB",
+   "origA",
+   "gptA"
+  ],
+  "229": [
+   "gptB",
+   "origA"
+  ],
+  "230": [
+   "gptB",
+   "gptA"
+  ],
+  "231": [
+   "origA",
+   "custom:c1"
+  ],
+  "232": [
+   "gptB",
+   "origA"
+  ],
+  "233": [
+   "gptA",
+   "new:233:fix1"
+  ],
+  "234": [
+   "origB",
+   "new:234:fix1"
+  ],
+  "235": [
+   "gptA",
+   "gptB"
+  ],
+  "236": [
+   "gptA",
+   "gptB",
+   "origB"
+  ],
+  "237": [
+   "gptB",
+   "gptA"
+  ],
+  "239": [
+   "gptA",
+   "gptB"
+  ],
+  "240": [
+   "gptA",
+   "gptB"
+  ],
+  "241": [
+   "gptA",
+   "gptB"
+  ],
+  "242": [
+   "custom:c1",
+   "gptB"
+  ],
+  "243": [
+   "gptA",
+   "gptB"
+  ],
+  "244": [
+   "gptB",
+   "new:244:fix1"
+  ],
+  "245": [
+   "gptB",
+   "custom:c1"
+  ],
+  "246": [
+   "gptA",
+   "custom:c1",
+   "gptB"
+  ],
+  "247": [
+   "gptB",
+   "new:247:fix1"
+  ],
+  "248": [
+   "gptA",
+   "gptB"
+  ],
+  "249": [
+   "gptB",
+   "new:249:fix1"
+  ],
+  "250": [
+   "gptA",
+   "gptB"
+  ],
+  "251": [
+   "gptA",
+   "origB"
+  ],
+  "252": [
+   "gptA",
+   "custom:c1"
+  ],
+  "253": [
+   "gptA",
+   "gptB",
+   "custom:c1"
+  ],
+  "254": [
+   "gptA",
+   "gptB"
+  ],
+  "255": [
+   "gptA",
+   "gptB",
+   "origA"
+  ],
+  "256": [
+   "custom:c1"
+  ],
+  "257": [
+   "gptA",
+   "custom:c1"
+  ],
+  "258": [
+   "gptA",
+   "gptB"
+  ],
+  "259": [
+   "gptA",
+   "custom:c1"
+  ],
+  "260": [
+   "gptA",
+   "gptB"
+  ],
+  "261": [
+   "gptA",
+   "origB",
+   "gptB"
+  ],
+  "262": [
+   "gptA",
+   "gptB"
+  ],
+  "263": [
+   "gptB",
+   "gptA",
+   "custom:c1"
+  ],
+  "264": [
+   "gptA",
+   "gptB",
+   "origA"
+  ],
+  "265": [
+   "gptB",
+   "custom:c1"
+  ],
+  "266": [
+   "custom:c1",
+   "gptB"
+  ],
+  "267": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "268": [
+   "gptB",
+   "gptA"
+  ],
+  "269": [
+   "gptA",
+   "gptB"
+  ],
+  "270": [
+   "gptA",
+   "gptB"
+  ],
+  "271": [
+   "gptA"
+  ],
+  "273": [
+   "gptA",
+   "custom:c2"
+  ],
+  "274": [
+   "origA",
+   "gptB"
+  ],
+  "275": [
+   "gptA",
+   "gptB"
+  ],
+  "276": [
+   "origB",
+   "custom:c1"
+  ],
+  "277": [
+   "custom:c1"
+  ],
+  "278": [
+   "gptA",
+   "gptB",
+   "custom:c1"
+  ],
+  "279": [
+   "custom:c1",
+   "gptB",
+   "gptA"
+  ],
+  "281": [
+   "gptA",
+   "origB",
+   "gptB"
+  ],
+  "282": [
+   "origA",
+   "gptA"
+  ],
+  "283": [
+   "gptA"
+  ],
+  "284": [
+   "gptB",
+   "gptA"
+  ],
+  "285": [
+   "custom:c1",
+   "custom:c2",
+   "origB"
+  ],
+  "286": [
+   "gptB"
+  ],
+  "287": [
+   "gptA",
+   "origB"
+  ],
+  "288": [
+   "gptA",
+   "origB"
+  ],
+  "289": [
+   "gptB",
+   "gptA"
+  ],
+  "290": [
+   "gptA",
+   "origB"
+  ],
+  "291": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "292": [
+   "gptA",
+   "origB"
+  ],
+  "293": [
+   "gptA"
+  ],
+  "294": [
+   "gptA",
+   "origA"
+  ],
+  "295": [
+   "gptA"
+  ],
+  "296": [
+   "gptA",
+   "gptB"
+  ],
+  "297": [
+   "gptB",
+   "custom:c1"
+  ],
+  "298": [
+   "gptA"
+  ],
+  "299": [
+   "gptA",
+   "origA"
+  ],
+  "300": [
+   "gptA",
+   "gptB"
+  ],
+  "301": [
+   "gptA",
+   "gptB"
+  ],
+  "302": [
+   "gptA",
+   "gptB"
+  ],
+  "303": [
+   "gptB",
+   "custom:c1"
+  ],
+  "304": [
+   "gptA",
+   "gptB"
+  ],
+  "305": [
+   "origA",
+   "gptA"
+  ],
+  "306": [
+   "gptA",
+   "origB"
+  ],
+  "307": [
+   "origA",
+   "gptA"
+  ],
+  "308": [
+   "gptA",
+   "gptB"
+  ],
+  "309": [
+   "gptB",
+   "origB"
+  ],
+  "310": [
+   "origB",
+   "gptB"
+  ],
+  "311": [
+   "gptA",
+   "origA"
+  ],
+  "312": [
+   "gptA",
+   "gptB"
+  ],
+  "313": [
+   "origA",
+   "gptA"
+  ],
+  "314": [
+   "gptA"
+  ],
+  "315": [
+   "gptA"
+  ],
+  "316": [
+   "gptB"
+  ],
+  "317": [
+   "custom:c1",
+   "origB",
+   "custom:c2"
+  ],
+  "318": [
+   "gptA",
+   "gptB"
+  ],
+  "319": [
+   "gptA",
+   "gptB"
+  ],
+  "320": [
+   "gptA",
+   "origB"
+  ],
+  "321": [
+   "gptA"
+  ],
+  "322": [
+   "gptA",
+   "new:322:fix1"
+  ],
+  "323": [
+   "origA",
+   "gptA"
+  ],
+  "324": [
+   "gptB",
+   "gptA"
+  ],
+  "325": [
+   "gptA",
+   "origB"
+  ],
+  "326": [
+   "gptB",
+   "gptA"
+  ],
+  "327": [
+   "gptA",
+   "origB"
+  ],
+  "328": [
+   "gptA",
+   "origB"
+  ],
+  "329": [
+   "gptA",
+   "origA"
+  ],
+  "330": [
+   "origA",
+   "gptB"
+  ],
+  "331": [
+   "gptA",
+   "origB"
+  ],
+  "332": [
+   "gptA",
+   "gptB"
+  ],
+  "333": [
+   "gptA"
+  ],
+  "334": [
+   "gptA",
+   "origB"
+  ],
+  "335": [
+   "gptA",
+   "origA",
+   "origB"
+  ],
+  "336": [
+   "gptA",
+   "origB"
+  ],
+  "337": [
+   "origA",
+   "custom:c1",
+   "gptA"
+  ],
+  "338": [
+   "gptB",
+   "gptA"
+  ],
+  "339": [
+   "gptA",
+   "custom:c1"
+  ],
+  "340": [
+   "gptA",
+   "gptB"
+  ],
+  "341": [
+   "gptA",
+   "gptB"
+  ],
+  "342": [
+   "origA",
+   "gptB"
+  ],
+  "343": [
+   "gptA",
+   "origB"
+  ],
+  "344": [
+   "gptA",
+   "gptB"
+  ],
+  "345": [
+   "origB",
+   "custom:c1",
+   "custom:c2"
+  ],
+  "346": [
+   "gptA"
+  ],
+  "347": [
+   "gptA"
+  ],
+  "348": [
+   "gptA"
+  ],
+  "349": [
+   "gptA"
+  ],
+  "350": [
+   "custom:c1",
+   "new:350:fix1"
+  ],
+  "351": [
+   "gptA",
+   "custom:c1"
+  ],
+  "352": [
+   "gptA",
+   "gptB"
+  ],
+  "353": [
+   "gptA",
+   "gptB",
+   "origA"
+  ],
+  "354": [
+   "gptA",
+   "custom:c1"
+  ],
+  "355": [
+   "gptA",
+   "gptB"
+  ],
+  "356": [
+   "gptA",
+   "custom:c1"
+  ],
+  "357": [
+   "gptA"
+  ],
+  "358": [
+   "gptA",
+   "origA"
+  ],
+  "359": [
+   "gptB",
+   "gptA"
+  ],
+  "360": [
+   "gptA",
+   "gptB"
+  ],
+  "361": [
+   "gptB",
+   "gptA"
+  ],
+  "362": [
+   "gptB",
+   "gptA"
+  ],
+  "363": [
+   "origB",
+   "gptA"
+  ],
+  "364": [
+   "gptA",
+   "gptB"
+  ],
+  "365": [
+   "gptA",
+   "gptB"
+  ],
+  "366": [
+   "gptB",
+   "gptA"
+  ],
+  "367": [
+   "gptB",
+   "gptA",
+   "origB"
+  ],
+  "368": [
+   "gptA"
+  ],
+  "369": [
+   "gptA"
+  ],
+  "370": [
+   "custom:c1",
+   "gptA",
+   "gptB"
+  ],
+  "371": [
+   "gptA"
+  ],
+  "372": [
+   "gptA"
+  ],
+  "373": [
+   "custom:c1"
+  ],
+  "374": [
+   "custom:c1",
+   "gptB"
+  ],
+  "375": [
+   "gptA",
+   "gptB"
+  ],
+  "376": [
+   "custom:c1"
+  ],
+  "377": [
+   "gptA"
+  ],
+  "378": [
+   "gptA",
+   "custom:c1"
+  ],
+  "379": [
+   "origB",
+   "custom:c1"
+  ],
+  "380": [
+   "gptB",
+   "origA",
+   "origB"
+  ],
+  "381": [
+   "origB",
+   "gptB"
+  ],
+  "382": [
+   "gptB",
+   "gptA"
+  ],
+  "384": [
+   "gptB",
+   "gptA"
+  ],
+  "385": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "386": [
+   "origA",
+   "origB"
+  ],
+  "387": [
+   "gptA",
+   "custom:c1"
+  ],
+  "388": [
+   "gptA",
+   "origB"
+  ],
+  "389": [
+   "origA",
+   "gptA"
+  ],
+  "390": [
+   "gptA",
+   "gptB"
+  ],
+  "391": [
+   "gptB",
+   "gptA"
+  ],
+  "392": [
+   "gptA"
+  ],
+  "393": [
+   "gptA"
+  ],
+  "394": [
+   "origA",
+   "gptA"
+  ],
+  "395": [
+   "gptA",
+   "custom:c1"
+  ],
+  "396": [
+   "gptA",
+   "new:396:fix1"
+  ],
+  "397": [
+   "gptA",
+   "gptB"
+  ],
+  "398": [
+   "origA"
+  ],
+  "399": [
+   "gptA",
+   "gptB"
+  ],
+  "400": [
+   "gptA",
+   "gptB"
+  ],
+  "401": [
+   "custom:c1"
+  ],
+  "402": [
+   "gptA",
+   "custom:c1"
+  ],
+  "403": [
+   "custom:c2",
+   "gptA"
+  ],
+  "404": [
+   "origA",
+   "gptB",
+   "custom:c1"
+  ],
+  "405": [
+   "gptA",
+   "gptB"
+  ],
+  "406": [
+   "gptA",
+   "origB"
+  ],
+  "407": [
+   "origB",
+   "gptB"
+  ],
+  "408": [
+   "gptB",
+   "gptA"
+  ],
+  "409": [
+   "gptB",
+   "gptA"
+  ],
+  "410": [
+   "gptB",
+   "gptA"
+  ],
+  "411": [
+   "gptA"
+  ],
+  "412": [
+   "gptA"
+  ],
+  "413": [
+   "gptB"
+  ],
+  "414": [
+   "origB",
+   "gptA"
+  ],
+  "415": [
+   "gptA",
+   "origB",
+   "gptB"
+  ],
+  "416": [
+   "origA"
+  ],
+  "417": [
+   "gptA"
+  ],
+  "418": [
+   "gptB"
+  ],
+  "419": [
+   "gptA"
+  ],
+  "420": [
+   "gptA",
+   "origB"
+  ],
+  "421": [
+   "gptA",
+   "gptB"
+  ],
+  "422": [
+   "gptA",
+   "new:422:fix1"
+  ],
+  "423": [
+   "gptA",
+   "origB"
+  ],
+  "424": [
+   "custom:c1",
+   "gptA"
+  ],
+  "425": [
+   "custom:c1",
+   "custom:c2",
+   "origA"
+  ],
+  "426": [
+   "gptB",
+   "gptA"
+  ],
+  "427": [
+   "gptB",
+   "gptA"
+  ],
+  "428": [
+   "custom:c1",
+   "new:428:fix1"
+  ],
+  "429": [
+   "gptA",
+   "origB"
+  ],
+  "430": [
+   "gptA",
+   "origA"
+  ],
+  "431": [
+   "gptA",
+   "gptB"
+  ],
+  "432": [
+   "origB",
+   "gptA"
+  ],
+  "433": [
+   "gptA",
+   "custom:c1"
+  ],
+  "434": [
+   "gptB",
+   "gptA"
+  ],
+  "435": [
+   "gptB",
+   "new:435:fix1"
+  ],
+  "436": [
+   "custom:c1",
+   "gptB"
+  ],
+  "437": [
+   "gptA",
+   "gptB"
+  ],
+  "438": [
+   "gptB",
+   "gptA"
+  ],
+  "439": [
+   "origB",
+   "gptB"
+  ],
+  "440": [
+   "gptB",
+   "gptA"
+  ],
+  "441": [
+   "custom:c1",
+   "origB"
+  ],
+  "442": [
+   "origB",
+   "gptA",
+   "origA"
+  ],
+  "443": [
+   "origB",
+   "gptA"
+  ],
+  "444": [
+   "origA",
+   "gptB"
+  ],
+  "445": [
+   "origB",
+   "gptA"
+  ],
+  "446": [
+   "gptB",
+   "origA"
+  ],
+  "447": [
+   "gptA"
+  ],
+  "448": [
+   "gptB"
+  ],
+  "449": [
+   "origA",
+   "gptA"
+  ],
+  "450": [
+   "origA",
+   "gptB"
+  ],
+  "451": [
+   "gptB",
+   "new:451:fix1"
+  ],
+  "452": [
+   "gptA",
+   "origB"
+  ],
+  "453": [
+   "gptB",
+   "gptA"
+  ],
+  "454": [
+   "gptA",
+   "gptB"
+  ],
+  "456": [
+   "gptA",
+   "gptB"
+  ],
+  "457": [
+   "gptB",
+   "gptA"
+  ],
+  "458": [
+   "gptA",
+   "gptB",
+   "origB"
+  ],
+  "459": [
+   "gptB",
+   "gptA"
+  ],
+  "460": [
+   "origA",
+   "gptB"
+  ],
+  "461": [
+   "gptA",
+   "gptB"
+  ],
+  "462": [
+   "origA",
+   "gptB"
+  ],
+  "463": [
+   "gptA",
+   "gptB"
+  ],
+  "464": [
+   "gptB",
+   "origA"
+  ],
+  "465": [
+   "gptA",
+   "gptB"
+  ],
+  "467": [
+   "gptB"
+  ],
+  "468": [
+   "gptA"
+  ],
+  "469": [
+   "gptB"
+  ],
+  "470": [
+   "origB",
+   "origA"
+  ],
+  "471": [
+   "gptA",
+   "gptB"
+  ],
+  "472": [
+   "custom:c1"
+  ],
+  "473": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "474": [
+   "gptB",
+   "gptA"
+  ],
+  "475": [
+   "gptA"
+  ],
+  "476": [
+   "gptB",
+   "gptA"
+  ],
+  "477": [
+   "gptB",
+   "gptA"
+  ],
+  "478": [
+   "gptB",
+   "gptA"
+  ],
+  "479": [
+   "gptB",
+   "gptA"
+  ],
+  "480": [
+   "gptA"
+  ],
+  "481": [
+   "custom:c1",
+   "custom:c2",
+   "custom:c3"
+  ],
+  "482": [
+   "gptA",
+   "origA"
+  ],
+  "483": [
+   "gptA",
+   "custom:c1"
+  ],
+  "484": [
+   "gptB",
+   "custom:c1"
+  ],
+  "485": [
+   "gptB",
+   "gptA"
+  ],
+  "486": [
+   "custom:c1",
+   "gptA"
+  ],
+  "487": [
+   "gptA",
+   "origA",
+   "origB"
+  ],
+  "488": [
+   "gptA",
+   "origA",
+   "gptB"
+  ],
+  "489": [
+   "gptB",
+   "origB"
+  ],
+  "490": [
+   "gptA",
+   "origA"
+  ],
+  "491": [
+   "gptA"
+  ],
+  "492": [
+   "gptA",
+   "gptB"
+  ],
+  "493": [
+   "gptA",
+   "gptB"
+  ],
+  "495": [
+   "gptA",
+   "gptB"
+  ],
+  "496": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "499": [
+   "gptB",
+   "origB"
+  ],
+  "503": [
+   "custom:c1"
+  ],
+  "506": [
+   "custom:c1"
+  ],
+  "507": [
+   "custom:c1"
+  ],
+  "508": [
+   "gptA",
+   "custom:c2"
+  ],
+  "509": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "510": [
+   "origA",
+   "origB"
+  ],
+  "511": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "512": [
+   "origA"
+  ],
+  "513": [
+   "custom:c1"
+  ],
+  "514": [
+   "custom:c1"
+  ],
+  "517": [
+   "custom:c1"
+  ],
+  "519": [
+   "custom:c1"
+  ],
+  "520": [
+   "custom:c1",
+   "origB"
+  ],
+  "521": [
+   "custom:c1",
+   "origA"
+  ],
+  "523": [
+   "origA",
+   "origB"
+  ],
+  "524": [
+   "origA",
+   "gptA"
+  ],
+  "525": [
+   "custom:c1",
+   "new:525:fix1"
+  ],
+  "526": [
+   "custom:c1"
+  ],
+  "527": [
+   "custom:c1"
+  ],
+  "528": [
+   "origB"
+  ],
+  "529": [
+   "custom:c3",
+   "custom:c1"
+  ],
+  "530": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "531": [
+   "gptA",
+   "gptB"
+  ],
+  "532": [
+   "gptA",
+   "gptB"
+  ],
+  "533": [
+   "custom:c1"
+  ],
+  "534": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "537": [
+   "origA",
+   "custom:c1"
+  ],
+  "538": [
+   "custom:c1"
+  ],
+  "539": [
+   "custom:c1",
+   "gptB"
+  ],
+  "540": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "541": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "542": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "543": [
+   "custom:c1",
+   "new:543:fix1"
+  ],
+  "544": [
+   "custom:c1",
+   "gptB"
+  ],
+  "545": [
+   "custom:c1",
+   "origB"
+  ],
+  "546": [
+   "custom:c1",
+   "gptB"
+  ],
+  "547": [
+   "origB",
+   "custom:c1"
+  ],
+  "548": [
+   "custom:c1"
+  ],
+  "549": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "550": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "551": [
+   "custom:c1",
+   "origA"
+  ],
+  "552": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "553": [
+   "custom:c1"
+  ],
+  "554": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "555": [
+   "custom:c1"
+  ],
+  "556": [
+   "origA",
+   "origB"
+  ],
+  "557": [
+   "origB",
+   "custom:c1"
+  ],
+  "558": [
+   "origA",
+   "custom:c1"
+  ],
+  "559": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "560": [
+   "origB",
+   "custom:c1",
+   "custom:c2"
+  ],
+  "561": [
+   "custom:c1",
+   "gptB"
+  ],
+  "562": [
+   "custom:c1"
+  ],
+  "563": [
+   "custom:c1",
+   "gptB"
+  ],
+  "564": [
+   "custom:c1"
+  ],
+  "565": [
+   "custom:c1"
+  ],
+  "566": [
+   "origA"
+  ],
+  "567": [
+   "custom:c1",
+   "new:567:fix1"
+  ],
+  "568": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "569": [
+   "custom:c1"
+  ],
+  "570": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "571": [
+   "custom:c1",
+   "origA"
+  ],
+  "572": [
+   "origA"
+  ],
+  "573": [
+   "custom:c1"
+  ],
+  "574": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "575": [
+   "custom:c1"
+  ],
+  "576": [
+   "origA"
+  ],
+  "577": [
+   "origB",
+   "custom:c1"
+  ],
+  "578": [
+   "custom:c1",
+   "gptB"
+  ],
+  "579": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "580": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "581": [
+   "custom:c1"
+  ],
+  "582": [
+   "custom:c1",
+   "origA"
+  ],
+  "583": [
+   "custom:c1"
+  ],
+  "584": [
+   "origB"
+  ],
+  "585": [
+   "custom:c1"
+  ],
+  "586": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "587": [
+   "origA"
+  ],
+  "588": [
+   "custom:c1",
+   "origA"
+  ],
+  "589": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "590": [
+   "origA"
+  ],
+  "591": [
+   "origA",
+   "custom:c1",
+   "origB"
+  ],
+  "592": [
+   "custom:c1",
+   "origA"
+  ],
+  "593": [
+   "origB",
+   "custom:c1"
+  ],
+  "594": [
+   "origA"
+  ],
+  "595": [
+   "custom:c1"
+  ],
+  "596": [
+   "custom:c1",
+   "origA",
+   "custom:c2"
+  ],
+  "597": [
+   "custom:c1"
+  ],
+  "598": [
+   "origA",
+   "custom:c1"
+  ],
+  "599": [
+   "custom:c1"
+  ],
+  "600": [
+   "gptA",
+   "gptB"
+  ],
+  "601": [
+   "gptA",
+   "new:601:fix1"
+  ],
+  "602": [
+   "origA",
+   "origB"
+  ],
+  "603": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "604": [
+   "custom:c1"
+  ],
+  "605": [
+   "origA",
+   "custom:c1"
+  ],
+  "606": [
+   "custom:c2",
+   "new:606:fix1"
+  ],
+  "607": [
+   "origA",
+   "custom:c1"
+  ],
+  "608": [
+   "custom:c1"
+  ],
+  "609": [
+   "custom:c1"
+  ],
+  "610": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "611": [
+   "origA",
+   "gptB"
+  ],
+  "612": [
+   "custom:c1"
+  ],
+  "613": [
+   "origA",
+   "gptB"
+  ],
+  "614": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "615": [
+   "custom:c1",
+   "gptB"
+  ],
+  "616": [
+   "new:616:fix1",
+   "new:616:fix2"
+  ],
+  "617": [
+   "custom:c2",
+   "new:617:fix1"
+  ],
+  "618": [
+   "custom:c1"
+  ],
+  "619": [
+   "custom:c1"
+  ],
+  "620": [
+   "custom:c1"
+  ],
+  "621": [
+   "gptA"
+  ],
+  "622": [
+   "origA"
+  ],
+  "623": [
+   "custom:c1"
+  ],
+  "624": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "625": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "626": [
+   "origA"
+  ],
+  "627": [
+   "custom:c1"
+  ],
+  "628": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "629": [
+   "custom:c2",
+   "new:629:fix1"
+  ],
+  "630": [
+   "custom:c1"
+  ],
+  "631": [
+   "custom:c1"
+  ],
+  "632": [
+   "custom:c1"
+  ],
+  "633": [
+   "custom:c1",
+   "gptB"
+  ],
+  "634": [
+   "custom:c1"
+  ],
+  "635": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "636": [
+   "origA",
+   "gptB"
+  ],
+  "637": [
+   "custom:c1"
+  ],
+  "638": [
+   "custom:c2"
+  ],
+  "639": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "640": [
+   "custom:c1"
+  ],
+  "641": [
+   "custom:c1",
+   "custom:c2",
+   "custom:c3"
+  ],
+  "642": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "643": [
+   "origA",
+   "custom:c1",
+   "custom:c2"
+  ],
+  "644": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "645": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "646": [
+   "custom:c1"
+  ],
+  "647": [
+   "custom:c1",
+   "new:647:fix1"
+  ],
+  "648": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "649": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "650": [
+   "origB",
+   "custom:c1"
+  ],
+  "651": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "652": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "653": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "654": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "655": [
+   "custom:c1",
+   "origA"
+  ],
+  "656": [
+   "custom:c1"
+  ],
+  "657": [
+   "custom:c1"
+  ],
+  "658": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "659": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "660": [
+   "origA",
+   "custom:c1"
+  ],
+  "661": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "662": [
+   "gptB"
+  ],
+  "663": [
+   "origA",
+   "origB"
+  ],
+  "664": [
+   "origA",
+   "custom:c1"
+  ],
+  "665": [
+   "origB",
+   "custom:c1"
+  ],
+  "666": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "667": [
+   "origA",
+   "custom:c1"
+  ],
+  "668": [
+   "custom:c1"
+  ],
+  "669": [
+   "custom:c1",
+   "origA"
+  ],
+  "670": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "671": [
+   "origA",
+   "custom:c1"
+  ],
+  "672": [
+   "custom:c1",
+   "new:672:fix1"
+  ],
+  "673": [
+   "new:673:fix1",
+   "new:673:fix2"
+  ],
+  "674": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "675": [
+   "custom:c1",
+   "new:675:fix1"
+  ],
+  "676": [
+   "gptA",
+   "new:676:n4",
+   "custom:c1"
+  ],
+  "677": [
+   "custom:c1"
+  ],
+  "678": [
+   "new:678:n2",
+   "new:678:n4"
+  ],
+  "679": [
+   "new:679:n2",
+   "custom:c1"
+  ],
+  "680": [
+   "custom:c1"
+  ],
+  "681": [
+   "gptB",
+   "origA"
+  ],
+  "682": [
+   "gptA",
+   "new:682:n4",
+   "new:682:n2"
+  ],
+  "683": [
+   "new:683:n1",
+   "gptA"
+  ],
+  "684": [
+   "gptA",
+   "new:684:n3"
+  ],
+  "685": [
+   "gptA",
+   "gptB",
+   "new:685:n3"
+  ],
+  "686": [
+   "new:686:n4",
+   "new:686:n5",
+   "gptA"
+  ],
+  "687": [
+   "new:687:n4",
+   "gptA"
+  ],
+  "688": [
+   "new:688:n1",
+   "new:688:n2",
+   "gptA"
+  ],
+  "689": [
+   "new:689:n1",
+   "origA"
+  ],
+  "690": [
+   "new:690:n1",
+   "new:690:n4",
+   "gptB"
+  ],
+  "691": [
+   "new:691:n2",
+   "gptA",
+   "origA"
+  ],
+  "692": [
+   "new:692:n1",
+   "gptB"
+  ],
+  "693": [
+   "gptB",
+   "origB"
+  ],
+  "694": [
+   "gptA",
+   "new:694:n3"
+  ],
+  "695": [
+   "new:695:n1",
+   "gptA"
+  ],
+  "696": [
+   "origA",
+   "gptA",
+   "new:696:n5"
+  ],
+  "697": [
+   "gptA",
+   "new:697:n1",
+   "new:697:n7"
+  ],
+  "698": [
+   "new:698:n6",
+   "gptA",
+   "origB"
+  ],
+  "699": [
+   "gptA",
+   "gptB",
+   "new:699:n3"
+  ],
+  "700": [
+   "new:700:n3",
+   "gptB",
+   "new:700:n4"
+  ],
+  "701": [
+   "gptA",
+   "new:701:n3"
+  ],
+  "702": [
+   "gptA",
+   "gptB",
+   "new:702:n2"
+  ],
+  "703": [
+   "gptB",
+   "gptA",
+   "new:703:n2"
+  ],
+  "704": [
+   "gptB",
+   "gptA"
+  ],
+  "705": [
+   "gptB",
+   "origB"
+  ],
+  "706": [
+   "gptA",
+   "gptB",
+   "origB"
+  ],
+  "707": [
+   "gptA",
+   "new:707:n2"
+  ],
+  "708": [
+   "gptA"
+  ],
+  "709": [
+   "new:709:n1",
+   "new:709:n2",
+   "new:709:n5"
+  ],
+  "710": [
+   "gptA",
+   "new:710:n1",
+   "new:710:n3"
+  ],
+  "711": [
+   "gptA"
+  ],
+  "712": [
+   "new:712:n3",
+   "new:712:n1",
+   "gptB"
+  ],
+  "713": [
+   "origA",
+   "gptB"
+  ],
+  "714": [
+   "new:714:n3",
+   "gptB"
+  ],
+  "715": [
+   "new:715:n3",
+   "new:715:n6",
+   "gptB"
+  ],
+  "716": [
+   "new:716:n1",
+   "gptA",
+   "gptB"
+  ],
+  "717": [
+   "new:717:n1",
+   "new:717:n2"
+  ],
+  "718": [
+   "gptB",
+   "new:718:n3",
+   "gptA"
+  ],
+  "719": [
+   "gptB",
+   "new:719:n4",
+   "gptA"
+  ],
+  "720": [
+   "gptB",
+   "gptA"
+  ],
+  "721": [
+   "gptB",
+   "new:721:n3",
+   "gptA"
+  ],
+  "722": [
+   "gptA"
+  ],
+  "723": [
+   "gptB",
+   "new:723:n5"
+  ],
+  "724": [
+   "new:724:n3",
+   "gptA"
+  ],
+  "725": [
+   "gptA",
+   "new:725:n1",
+   "new:725:n2"
+  ],
+  "726": [
+   "gptB",
+   "gptA",
+   "new:726:n3"
+  ],
+  "727": [
+   "new:727:n1",
+   "gptB",
+   "gptA"
+  ],
+  "728": [
+   "gptA",
+   "origA"
+  ],
+  "729": [
+   "gptA",
+   "origB"
+  ],
+  "730": [
+   "gptB",
+   "new:730:n4"
+  ],
+  "731": [
+   "new:731:n3",
+   "custom:c1"
+  ],
+  "732": [
+   "gptA",
+   "gptB",
+   "origA"
+  ],
+  "733": [
+   "new:733:n2",
+   "gptA"
+  ],
+  "734": [
+   "custom:c1"
+  ],
+  "735": [
+   "gptB",
+   "origB",
+   "new:735:n3"
+  ],
+  "736": [
+   "new:736:n1",
+   "gptB"
+  ],
+  "737": [
+   "gptA",
+   "new:737:n6"
+  ],
+  "738": [
+   "custom:c1",
+   "new:738:n3"
+  ],
+  "739": [
+   "custom:c1"
+  ],
+  "740": [
+   "custom:c1"
+  ],
+  "741": [
+   "new:741:n2"
+  ],
+  "742": [
+   "new:742:n2"
+  ],
+  "743": [
+   "gptA",
+   "new:743:n2",
+   "gptB"
+  ],
+  "744": [
+   "gptA",
+   "new:744:n2"
+  ],
+  "745": [
+   "gptA"
+  ],
+  "746": [
+   "new:746:n2",
+   "new:746:n1"
+  ],
+  "747": [
+   "new:747:n1"
+  ],
+  "748": [
+   "gptA",
+   "new:748:n2"
+  ],
+  "749": [
+   "new:749:n2",
+   "gptB"
+  ],
+  "750": [
+   "new:750:n4",
+   "custom:c1"
+  ],
+  "751": [
+   "gptA",
+   "new:751:n5",
+   "origA"
+  ],
+  "752": [
+   "gptA",
+   "new:752:n3",
+   "new:752:n1"
+  ],
+  "753": [
+   "new:753:n3",
+   "new:753:n1",
+   "custom:c1"
+  ],
+  "754": [
+   "gptB",
+   "custom:c1"
+  ],
+  "755": [
+   "origB",
+   "custom:c1"
+  ],
+  "756": [
+   "new:756:n3",
+   "custom:c1"
+  ],
+  "757": [
+   "new:757:n5",
+   "gptB",
+   "new:757:n6"
+  ],
+  "758": [
+   "gptA",
+   "gptB"
+  ],
+  "759": [
+   "gptA",
+   "new:759:n1",
+   "gptB"
+  ],
+  "760": [
+   "new:760:n1",
+   "new:760:n2",
+   "gptB"
+  ],
+  "761": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "762": [
+   "new:762:n4",
+   "new:762:n3",
+   "new:762:n1"
+  ],
+  "763": [
+   "gptA",
+   "gptB"
+  ],
+  "764": [
+   "gptA",
+   "gptB"
+  ],
+  "765": [
+   "gptA",
+   "custom:c1"
+  ],
+  "766": [
+   "gptA",
+   "custom:c1"
+  ],
+  "767": [
+   "new:767:n5",
+   "gptB"
+  ],
+  "768": [
+   "custom:c1",
+   "new:768:n1",
+   "new:768:n2"
+  ],
+  "769": [
+   "gptA",
+   "custom:c1"
+  ],
+  "770": [
+   "new:770:n4",
+   "gptB",
+   "new:770:n3"
+  ],
+  "771": [
+   "gptA",
+   "origA",
+   "new:771:n1"
+  ],
+  "772": [
+   "gptA",
+   "gptB"
+  ],
+  "773": [
+   "new:773:n1"
+  ],
+  "774": [
+   "new:774:n1",
+   "new:774:n3"
+  ],
+  "775": [
+   "new:775:n4",
+   "gptA"
+  ],
+  "776": [
+   "gptA",
+   "gptB"
+  ],
+  "777": [
+   "gptA",
+   "gptB",
+   "custom:c1"
+  ],
+  "778": [
+   "gptA",
+   "gptB",
+   "new:778:n3"
+  ],
+  "779": [
+   "gptB",
+   "origA",
+   "gptA"
+  ],
+  "780": [
+   "new:780:n1",
+   "new:780:n5",
+   "gptA"
+  ],
+  "781": [
+   "gptB",
+   "new:781:n2",
+   "new:781:n4"
+  ],
+  "783": [
+   "origA",
+   "new:783:n1"
+  ],
+  "784": [
+   "new:784:n4",
+   "gptB",
+   "origA"
+  ],
+  "785": [
+   "gptA",
+   "custom:c1"
+  ],
+  "786": [
+   "gptA",
+   "custom:c1"
+  ],
+  "787": [
+   "gptA",
+   "origA",
+   "gptB"
+  ],
+  "788": [
+   "origA",
+   "custom:c1"
+  ],
+  "789": [
+   "custom:c1"
+  ],
+  "790": [
+   "gptB",
+   "new:790:n4"
+  ],
+  "791": [
+   "gptA",
+   "gptB"
+  ],
+  "792": [
+   "gptA"
+  ],
+  "793": [
+   "new:793:n1"
+  ],
+  "794": [
+   "new:794:n1"
+  ],
+  "795": [
+   "gptB"
+  ],
+  "796": [
+   "new:796:n3",
+   "new:796:n2"
+  ],
+  "798": [
+   "gptA"
+  ],
+  "799": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "800": [
+   "gptA",
+   "gptB"
+  ],
+  "801": [
+   "new:801:n4"
+  ],
+  "802": [
+   "custom:c1"
+  ],
+  "803": [
+   "gptA",
+   "origB",
+   "new:803:n4"
+  ],
+  "804": [
+   "gptA"
+  ],
+  "805": [
+   "gptA",
+   "gptB",
+   "origB"
+  ],
+  "806": [
+   "new:806:n2",
+   "new:806:n3",
+   "gptB"
+  ],
+  "807": [
+   "gptB",
+   "new:807:n1"
+  ],
+  "808": [
+   "gptB"
+  ],
+  "809": [
+   "gptA",
+   "new:809:n1",
+   "new:809:n4"
+  ],
+  "810": [
+   "gptA",
+   "origA"
+  ],
+  "811": [
+   "gptB",
+   "new:811:n2",
+   "gptA"
+  ],
+  "812": [
+   "gptA"
+  ],
+  "813": [
+   "gptA",
+   "gptB",
+   "new:813:n3"
+  ],
+  "814": [
+   "gptB",
+   "origB"
+  ],
+  "815": [
+   "gptB"
+  ],
+  "816": [
+   "new:816:n2",
+   "gptA",
+   "new:816:n1"
+  ],
+  "817": [
+   "custom:c1"
+  ],
+  "818": [
+   "custom:c1"
+  ],
+  "819": [
+   "gptB",
+   "gptA"
+  ],
+  "820": [
+   "gptA"
+  ],
+  "821": [
+   "gptA",
+   "new:821:n2"
+  ],
+  "823": [
+   "new:823:n1",
+   "gptA"
+  ],
+  "824": [
+   "custom:c1",
+   "origA"
+  ],
+  "825": [
+   "new:825:n1",
+   "gptA"
+  ],
+  "826": [
+   "gptA",
+   "gptB"
+  ],
+  "829": [
+   "new:829:n1",
+   "custom:c1"
+  ],
+  "832": [
+   "custom:c1",
+   "new:832:n6"
+  ],
+  "833": [
+   "gptA"
+  ],
+  "834": [
+   "origB",
+   "new:834:n2"
+  ],
+  "835": [
+   "new:835:n3",
+   "new:835:n1",
+   "gptA"
+  ],
+  "836": [
+   "new:836:n2",
+   "gptA"
+  ],
+  "837": [
+   "gptB"
+  ],
+  "838": [
+   "gptA"
+  ],
+  "839": [
+   "new:839:n1"
+  ],
+  "840": [
+   "gptA"
+  ],
+  "841": [
+   "custom:c1"
+  ],
+  "842": [
+   "gptB"
+  ],
+  "843": [
+   "gptA",
+   "new:843:n1",
+   "gptB"
+  ],
+  "844": [
+   "gptB",
+   "gptA"
+  ],
+  "845": [
+   "gptB",
+   "new:845:n2"
+  ],
+  "846": [
+   "custom:c1"
+  ],
+  "847": [
+   "custom:c1"
+  ],
+  "849": [
+   "custom:c1",
+   "gptB"
+  ],
+  "850": [
+   "gptA",
+   "custom:c1"
+  ],
+  "851": [
+   "gptA"
+  ],
+  "854": [
+   "new:854:n5",
+   "new:854:n2"
+  ],
+  "855": [
+   "gptA"
+  ],
+  "856": [
+   "new:856:n4"
+  ],
+  "857": [
+   "gptB",
+   "new:857:n5"
+  ],
+  "858": [
+   "gptB",
+   "custom:c1"
+  ],
+  "859": [
+   "origB",
+   "custom:c1"
+  ],
+  "860": [
+   "gptA",
+   "new:860:n3"
+  ],
+  "861": [
+   "gptA",
+   "gptB"
+  ],
+  "862": [
+   "gptA"
+  ],
+  "863": [
+   "gptA"
+  ],
+  "864": [
+   "gptA",
+   "new:864:n4"
+  ],
+  "865": [
+   "gptA"
+  ],
+  "866": [
+   "gptA"
+  ],
+  "867": [
+   "gptA"
+  ],
+  "868": [
+   "gptB"
+  ],
+  "869": [
+   "new:869:n4",
+   "gptB",
+   "gptA"
+  ],
+  "870": [
+   "new:870:n2",
+   "gptA",
+   "new:870:n1"
+  ],
+  "871": [
+   "gptA"
+  ],
+  "872": [
+   "gptA"
+  ],
+  "873": [
+   "gptA",
+   "new:873:n3",
+   "gptB"
+  ],
+  "874": [
+   "gptA",
+   "gptB"
+  ],
+  "875": [
+   "gptB",
+   "new:875:n1",
+   "gptA"
+  ],
+  "877": [
+   "new:877:n2",
+   "gptA"
+  ],
+  "879": [
+   "new:879:n1",
+   "new:879:n4",
+   "new:879:n2"
+  ],
+  "880": [
+   "custom:c1"
+  ],
+  "881": [
+   "gptB",
+   "gptA",
+   "new:881:n3"
+  ],
+  "882": [
+   "new:882:n2",
+   "new:882:n4",
+   "gptA"
+  ],
+  "883": [
+   "gptA",
+   "new:883:n1"
+  ],
+  "884": [
+   "custom:c1"
+  ],
+  "885": [
+   "gptB"
+  ],
+  "886": [
+   "gptA",
+   "gptB"
+  ],
+  "887": [
+   "gptA"
+  ],
+  "888": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "889": [
+   "gptA",
+   "gptB"
+  ],
+  "890": [
+   "gptA",
+   "new:890:n2"
+  ],
+  "891": [
+   "gptA",
+   "gptB"
+  ],
+  "893": [
+   "gptA",
+   "gptB"
+  ],
+  "894": [
+   "new:894:n2",
+   "new:894:n1"
+  ],
+  "895": [
+   "gptB",
+   "gptA"
+  ],
+  "896": [
+   "gptA",
+   "gptB"
+  ],
+  "897": [
+   "new:897:n1",
+   "custom:c1"
+  ],
+  "898": [
+   "gptA",
+   "new:898:n1"
+  ],
+  "899": [
+   "new:899:n4",
+   "gptA"
+  ],
+  "900": [
+   "gptB",
+   "new:900:n4"
+  ],
+  "901": [
+   "origB",
+   "new:901:n4"
+  ],
+  "902": [
+   "new:902:n5",
+   "gptB"
+  ],
+  "903": [
+   "custom:c1"
+  ],
+  "904": [
+   "gptB",
+   "new:904:n3"
+  ],
+  "905": [
+   "gptA"
+  ],
+  "906": [
+   "custom:c1"
+  ],
+  "907": [
+   "gptA"
+  ],
+  "909": [
+   "origB",
+   "gptA"
+  ],
+  "910": [
+   "new:910:n1",
+   "gptA",
+   "gptB"
+  ],
+  "911": [
+   "origA",
+   "gptA"
+  ],
+  "912": [
+   "new:912:n1",
+   "gptA",
+   "gptB"
+  ],
+  "913": [
+   "gptA",
+   "new:913:n2",
+   "gptB"
+  ],
+  "914": [
+   "new:914:n4",
+   "gptB",
+   "gptA"
+  ],
+  "915": [
+   "gptB",
+   "new:915:n4"
+  ],
+  "916": [
+   "gptA",
+   "custom:c1",
+   "gptB"
+  ],
+  "917": [
+   "gptA",
+   "new:917:n3",
+   "new:917:n2"
+  ],
+  "918": [
+   "new:918:n2",
+   "gptA"
+  ],
+  "919": [
+   "custom:c1",
+   "origB"
+  ],
+  "920": [
+   "gptA",
+   "new:920:n4"
+  ],
+  "921": [
+   "gptB",
+   "gptA"
+  ],
+  "922": [
+   "gptB",
+   "origB"
+  ],
+  "923": [
+   "gptB",
+   "custom:c1"
+  ],
+  "924": [
+   "origA",
+   "gptA",
+   "new:924:n1"
+  ],
+  "925": [
+   "gptA"
+  ],
+  "926": [
+   "custom:c1"
+  ],
+  "927": [
+   "custom:c1",
+   "gptB",
+   "new:927:n4"
+  ],
+  "928": [
+   "gptB",
+   "gptA"
+  ],
+  "929": [
+   "gptA",
+   "gptB"
+  ],
+  "930": [
+   "gptB",
+   "new:930:n1",
+   "gptA"
+  ],
+  "931": [
+   "gptA"
+  ],
+  "932": [
+   "gptA",
+   "new:932:n1",
+   "gptB"
+  ],
+  "933": [
+   "gptA",
+   "gptB",
+   "new:933:n5"
+  ],
+  "934": [
+   "custom:c1"
+  ],
+  "935": [
+   "custom:c1"
+  ],
+  "936": [
+   "gptA",
+   "custom:c1"
+  ],
+  "937": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "938": [
+   "custom:c1",
+   "new:938:n6"
+  ],
+  "939": [
+   "origB",
+   "custom:c1"
+  ],
+  "940": [
+   "custom:c1"
+  ],
+  "941": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "942": [
+   "new:942:n1",
+   "custom:c1"
+  ],
+  "943": [
+   "gptA",
+   "gptB"
+  ],
+  "944": [
+   "gptA"
+  ],
+  "945": [
+   "new:945:n1",
+   "custom:c1"
+  ],
+  "946": [
+   "new:946:n1",
+   "gptB"
+  ],
+  "947": [
+   "gptA"
+  ],
+  "948": [
+   "gptA",
+   "new:948:n2"
+  ],
+  "949": [
+   "gptA"
+  ],
+  "950": [
+   "custom:c1",
+   "origB"
+  ],
+  "951": [
+   "gptA",
+   "new:951:n2"
+  ],
+  "952": [
+   "new:952:n1",
+   "origA"
+  ],
+  "953": [
+   "new:953:n1",
+   "new:953:n6"
+  ],
+  "954": [
+   "new:954:n3",
+   "gptB",
+   "gptA"
+  ],
+  "955": [
+   "new:955:n6",
+   "gptA"
+  ],
+  "956": [
+   "new:956:n2",
+   "new:956:n3",
+   "gptA"
+  ],
+  "957": [
+   "new:957:n3",
+   "custom:c1"
+  ],
+  "958": [
+   "new:958:n5",
+   "gptA"
+  ],
+  "959": [
+   "gptA"
+  ],
+  "960": [
+   "gptA",
+   "gptB"
+  ],
+  "961": [
+   "gptA"
+  ],
+  "962": [
+   "gptB"
+  ],
+  "963": [
+   "gptB",
+   "new:963:n2"
+  ],
+  "964": [
+   "new:964:n1",
+   "origA"
+  ],
+  "966": [
+   "gptA",
+   "new:966:n1"
+  ],
+  "967": [
+   "gptB",
+   "custom:c1"
+  ],
+  "968": [
+   "gptB",
+   "gptA"
+  ],
+  "969": [
+   "custom:c1",
+   "gptA"
+  ],
+  "971": [
+   "new:971:n1",
+   "gptA"
+  ],
+  "972": [
+   "custom:c1",
+   "gptA"
+  ],
+  "973": [
+   "custom:c1",
+   "gptA"
+  ],
+  "974": [
+   "gptA"
+  ],
+  "976": [
+   "new:976:n1",
+   "gptB"
+  ],
+  "978": [
+   "gptA"
+  ],
+  "979": [
+   "gptA",
+   "new:979:n6"
+  ],
+  "980": [
+   "gptA",
+   "gptB",
+   "new:980:n1"
+  ],
+  "981": [
+   "gptA",
+   "gptB"
+  ],
+  "982": [
+   "origA",
+   "gptA",
+   "new:982:n6"
+  ],
+  "983": [
+   "new:983:n4"
+  ],
+  "984": [
+   "gptA",
+   "new:984:n4"
+  ],
+  "985": [
+   "gptB",
+   "custom:c1"
+  ],
+  "986": [
+   "gptA",
+   "custom:c1"
+  ],
+  "987": [
+   "custom:c1"
+  ],
+  "988": [
+   "custom:c1"
+  ],
+  "989": [
+   "custom:c1",
+   "new:989:n5"
+  ],
+  "990": [
+   "new:990:n1",
+   "gptA"
+  ],
+  "991": [
+   "new:991:n4"
+  ],
+  "992": [
+   "custom:c1"
+  ],
+  "993": [
+   "gptA",
+   "gptB"
+  ],
+  "994": [
+   "custom:c1"
+  ],
+  "996": [
+   "gptA"
+  ],
+  "997": [
+   "gptA",
+   "new:997:n1"
+  ],
+  "998": [
+   "gptA",
+   "new:998:n2"
+  ],
+  "999": [
+   "custom:c1",
+   "gptA"
+  ],
+  "1000": [
+   "gptA",
+   "gptB"
+  ],
+  "1001": [
+   "gptB"
+  ],
+  "1002": [
+   "gptA"
+  ],
+  "1003": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1004": [
+   "new:1004:n5"
+  ],
+  "1005": [
+   "new:1005:n6",
+   "custom:c1"
+  ],
+  "1006": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1007": [
+   "new:1007:n1",
+   "gptA"
+  ],
+  "1008": [
+   "new:1008:n1",
+   "new:1008:n2"
+  ],
+  "1009": [
+   "new:1009:n1",
+   "origA"
+  ],
+  "1010": [
+   "gptB",
+   "gptA"
+  ],
+  "1011": [
+   "new:1011:n1"
+  ],
+  "1012": [
+   "new:1012:n7"
+  ],
+  "1013": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1014": [
+   "new:1014:n4"
+  ],
+  "1015": [
+   "gptA"
+  ],
+  "1016": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1017": [
+   "origA",
+   "gptA"
+  ],
+  "1018": [
+   "gptA",
+   "new:1018:n4"
+  ],
+  "1019": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1020": [
+   "new:1020:n2",
+   "custom:c1"
+  ],
+  "1021": [
+   "custom:c1",
+   "gptA",
+   "gptB"
+  ],
+  "1022": [
+   "custom:c1"
+  ],
+  "1023": [
+   "custom:c1",
+   "origB"
+  ],
+  "1024": [
+   "new:1024:n5",
+   "gptA"
+  ],
+  "1025": [
+   "gptA",
+   "new:1025:n4",
+   "new:1025:n1"
+  ],
+  "1026": [
+   "origB",
+   "new:1026:n1",
+   "custom:c1"
+  ],
+  "1027": [
+   "gptA"
+  ],
+  "1028": [
+   "gptA"
+  ],
+  "1029": [
+   "new:1029:n5",
+   "custom:c1"
+  ],
+  "1030": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1031": [
+   "gptB",
+   "new:1031:n2"
+  ],
+  "1033": [
+   "new:1033:n1",
+   "new:1033:n4"
+  ],
+  "1034": [
+   "custom:c1",
+   "gptB"
+  ],
+  "1035": [
+   "new:1035:n3",
+   "new:1035:n2",
+   "new:1035:n1"
+  ],
+  "1047": [
+   "origA",
+   "custom:c1"
+  ],
+  "1048": [
+   "gptA",
+   "new:1048:n2"
+  ],
+  "1049": [
+   "new:1049:n2",
+   "gptB",
+   "new:1049:n3"
+  ],
+  "1050": [
+   "gptB"
+  ],
+  "1052": [
+   "gptA"
+  ],
+  "1053": [
+   "gptB"
+  ],
+  "1056": [
+   "gptB"
+  ],
+  "1057": [
+   "gptB",
+   "origB"
+  ],
+  "1058": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1059": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1060": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1061": [
+   "gptA"
+  ],
+  "1062": [
+   "gptA",
+   "gptB",
+   "custom:c1"
+  ],
+  "1063": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1064": [
+   "gptB",
+   "gptA"
+  ],
+  "1065": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1066": [
+   "gptA",
+   "gptB"
+  ],
+  "1067": [
+   "custom:c1"
+  ],
+  "1068": [
+   "gptB",
+   "gptA"
+  ],
+  "1069": [
+   "gptB",
+   "gptA"
+  ],
+  "1070": [
+   "gptB",
+   "gptA"
+  ],
+  "1071": [
+   "gptA",
+   "gptB"
+  ],
+  "1072": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1073": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1074": [
+   "gptB"
+  ],
+  "1075": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1076": [
+   "gptA",
+   "new:1076:q1"
+  ],
+  "1077": [
+   "gptA",
+   "gptB",
+   "custom:c1"
+  ],
+  "1078": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1079": [
+   "custom:c1",
+   "gptA"
+  ],
+  "1080": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1081": [
+   "gptA",
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1082": [
+   "gptA",
+   "new:1082:q3"
+  ],
+  "1083": [
+   "gptB"
+  ],
+  "1084": [
+   "origA",
+   "gptA"
+  ],
+  "1085": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1086": [
+   "gptA",
+   "gptB"
+  ],
+  "1087": [
+   "gptB"
+  ],
+  "1088": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1089": [
+   "gptA",
+   "gptB"
+  ],
+  "1090": [
+   "custom:c1",
+   "gptA"
+  ],
+  "1091": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1092": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1093": [
+   "gptB",
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1094": [
+   "custom:c1"
+  ],
+  "1095": [
+   "gptB",
+   "gptA"
+  ],
+  "1096": [
+   "custom:c1"
+  ],
+  "1097": [
+   "custom:c1",
+   "gptA"
+  ],
+  "1099": [
+   "gptA",
+   "gptB"
+  ],
+  "1100": [
+   "custom:c1"
+  ],
+  "1101": [
+   "custom:c1"
+  ],
+  "1103": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1104": [
+   "gptA",
+   "gptB"
+  ],
+  "1106": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1108": [
+   "gptA",
+   "new:1108:q4"
+  ],
+  "1109": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1110": [
+   "gptA"
+  ],
+  "1111": [
+   "gptA",
+   "gptB"
+  ],
+  "1112": [
+   "gptA"
+  ],
+  "1113": [
+   "gptA",
+   "gptB"
+  ],
+  "1114": [
+   "gptB",
+   "gptA"
+  ],
+  "1115": [
+   "gptB"
+  ],
+  "1116": [
+   "gptA"
+  ],
+  "1117": [
+   "gptB",
+   "gptA"
+  ],
+  "1118": [
+   "gptA"
+  ],
+  "1119": [
+   "gptA",
+   "gptB"
+  ],
+  "1121": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1122": [
+   "gptA",
+   "gptB"
+  ],
+  "1123": [
+   "gptA"
+  ],
+  "1124": [
+   "gptB",
+   "new:1124:q1"
+  ],
+  "1127": [
+   "gptB"
+  ],
+  "1129": [
+   "gptB",
+   "new:1129:q1"
+  ],
+  "1130": [
+   "gptB",
+   "gptA"
+  ],
+  "1131": [
+   "custom:c1"
+  ],
+  "1132": [
+   "gptA"
+  ],
+  "1133": [
+   "gptA"
+  ],
+  "1134": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1135": [
+   "gptA",
+   "gptB"
+  ],
+  "1137": [
+   "gptA"
+  ],
+  "1138": [
+   "gptB",
+   "gptA"
+  ],
+  "1139": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1140": [
+   "custom:c1"
+  ],
+  "1141": [
+   "gptA"
+  ],
+  "1142": [
+   "gptA"
+  ],
+  "1143": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1144": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1145": [
+   "gptB",
+   "origA"
+  ],
+  "1146": [
+   "gptB",
+   "gptA"
+  ],
+  "1147": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1148": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1150": [
+   "gptA",
+   "gptB"
+  ],
+  "1151": [
+   "gptB",
+   "gptA"
+  ],
+  "1152": [
+   "gptA",
+   "gptB"
+  ],
+  "1154": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1155": [
+   "gptB",
+   "gptA"
+  ],
+  "1156": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1157": [
+   "gptA"
+  ],
+  "1158": [
+   "gptB",
+   "gptA"
+  ],
+  "1159": [
+   "custom:c1"
+  ],
+  "1161": [
+   "gptB"
+  ],
+  "1162": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1163": [
+   "gptA"
+  ],
+  "1164": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1165": [
+   "gptB",
+   "gptA"
+  ],
+  "1166": [
+   "gptA"
+  ],
+  "1167": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1168": [
+   "gptB",
+   "gptA"
+  ],
+  "1170": [
+   "gptA",
+   "gptB"
+  ],
+  "1171": [
+   "gptA",
+   "gptB"
+  ],
+  "1173": [
+   "gptA",
+   "gptB"
+  ],
+  "1174": [
+   "gptA"
+  ],
+  "1175": [
+   "gptA",
+   "gptB"
+  ],
+  "1176": [
+   "gptA",
+   "new:1176:q1"
+  ],
+  "1177": [
+   "custom:c1",
+   "gptA"
+  ],
+  "1182": [
+   "gptB",
+   "gptA"
+  ],
+  "1183": [
+   "new:1183:q3",
+   "custom:c1"
+  ],
+  "1184": [
+   "custom:c1",
+   "gptA",
+   "custom:c2"
+  ],
+  "1185": [
+   "custom:c1"
+  ],
+  "1186": [
+   "gptA"
+  ],
+  "1188": [
+   "custom:c1"
+  ],
+  "1189": [
+   "gptB",
+   "gptA"
+  ],
+  "1191": [
+   "gptB"
+  ],
+  "1192": [
+   "gptB",
+   "gptA"
+  ],
+  "1193": [
+   "custom:c1"
+  ],
+  "1194": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1195": [
+   "custom:c1"
+  ],
+  "1196": [
+   "custom:c1"
+  ],
+  "1197": [
+   "gptA",
+   "gptB"
+  ],
+  "1199": [
+   "custom:c1"
+  ],
+  "1200": [
+   "gptB",
+   "new:1200:q2"
+  ],
+  "1202": [
+   "gptB"
+  ],
+  "1203": [
+   "custom:c1"
+  ],
+  "1204": [
+   "gptA",
+   "custom:c2"
+  ],
+  "1205": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1206": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1207": [
+   "gptB"
+  ],
+  "1208": [
+   "custom:c1"
+  ],
+  "1209": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1211": [
+   "custom:c1",
+   "gptB"
+  ],
+  "1212": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1213": [
+   "origB",
+   "custom:c1"
+  ],
+  "1214": [
+   "gptB"
+  ],
+  "1215": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1216": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1217": [
+   "gptB"
+  ],
+  "1218": [
+   "gptB",
+   "gptA"
+  ],
+  "1220": [
+   "gptA"
+  ],
+  "1221": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1222": [
+   "gptA",
+   "gptB"
+  ],
+  "1223": [
+   "gptB"
+  ],
+  "1224": [
+   "custom:c1"
+  ],
+  "1225": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1227": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1228": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1229": [
+   "custom:c1"
+  ],
+  "1230": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1231": [
+   "gptB"
+  ],
+  "1232": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1233": [
+   "custom:c1"
+  ],
+  "1234": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1235": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1236": [
+   "custom:c1",
+   "gptB"
+  ],
+  "1237": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1238": [
+   "gptA",
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1239": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1240": [
+   "custom:c1",
+   "custom:c2"
+  ],
+  "1241": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1242": [
+   "gptA"
+  ],
+  "1243": [
+   "gptA",
+   "gptB"
+  ],
+  "1244": [
+   "gptB",
+   "gptA",
+   "custom:c1"
+  ],
+  "1245": [
+   "gptA"
+  ],
+  "1246": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1249": [
+   "custom:c1"
+  ],
+  "1250": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1252": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1253": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1254": [
+   "gptA",
+   "gptB"
+  ],
+  "1255": [
+   "custom:c1"
+  ],
+  "1256": [
+   "gptA"
+  ],
+  "1257": [
+   "gptA"
+  ],
+  "1259": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1260": [
+   "gptB"
+  ],
+  "1262": [
+   "custom:c1",
+   "gptA"
+  ],
+  "1263": [
+   "gptB",
+   "gptA"
+  ],
+  "1264": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1265": [
+   "gptA"
+  ],
+  "1266": [
+   "gptB"
+  ],
+  "1267": [
+   "gptB",
+   "new:1267:q1"
+  ],
+  "1268": [
+   "gptA",
+   "gptB"
+  ],
+  "1269": [
+   "gptA"
+  ],
+  "1270": [
+   "gptA"
+  ],
+  "1271": [
+   "gptA"
+  ],
+  "1272": [
+   "gptB"
+  ],
+  "1273": [
+   "gptA",
+   "gptB"
+  ],
+  "1274": [
+   "gptA"
+  ],
+  "1275": [
+   "custom:c1"
+  ],
+  "1276": [
+   "gptA",
+   "gptB"
+  ],
+  "1277": [
+   "gptB",
+   "gptA"
+  ],
+  "1278": [
+   "gptA",
+   "new:1278:q1"
+  ],
+  "1279": [
+   "gptA"
+  ],
+  "1280": [
+   "gptA",
+   "gptB"
+  ],
+  "1281": [
+   "gptA"
+  ],
+  "1282": [
+   "gptA"
+  ],
+  "1283": [
+   "gptB",
+   "gptA"
+  ],
+  "1284": [
+   "custom:c1"
+  ],
+  "1285": [
+   "gptA"
+  ],
+  "1286": [
+   "gptA"
+  ],
+  "1287": [
+   "gptA",
+   "origA"
+  ],
+  "1288": [
+   "gptA"
+  ],
+  "1290": [
+   "gptA",
+   "gptB"
+  ],
+  "1291": [
+   "gptA"
+  ],
+  "1292": [
+   "gptA"
+  ],
+  "1293": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1294": [
+   "gptA",
+   "gptB"
+  ],
+  "1295": [
+   "gptB",
+   "gptA"
+  ],
+  "1296": [
+   "gptA"
+  ],
+  "1297": [
+   "gptA",
+   "gptB"
+  ],
+  "1298": [
+   "gptA"
+  ],
+  "1299": [
+   "gptA"
+  ],
+  "1300": [
+   "gptB",
+   "gptA"
+  ],
+  "1302": [
+   "gptB",
+   "gptA"
+  ],
+  "1303": [
+   "gptA"
+  ],
+  "1304": [
+   "gptA",
+   "gptB"
+  ],
+  "1305": [
+   "gptA"
+  ],
+  "1306": [
+   "gptA"
+  ],
+  "1307": [
+   "gptA",
+   "gptB"
+  ],
+  "1308": [
+   "gptA",
+   "gptB"
+  ],
+  "1309": [
+   "gptA"
+  ],
+  "1310": [
+   "gptA"
+  ],
+  "1311": [
+   "gptB",
+   "gptA"
+  ],
+  "1312": [
+   "gptA",
+   "gptB"
+  ],
+  "1313": [
+   "gptA"
+  ],
+  "1314": [
+   "gptA",
+   "gptB"
+  ],
+  "1315": [
+   "gptA"
+  ],
+  "1316": [
+   "gptB"
+  ],
+  "1317": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1318": [
+   "gptA"
+  ],
+  "1319": [
+   "gptA",
+   "gptB"
+  ],
+  "1320": [
+   "gptA"
+  ],
+  "1321": [
+   "gptA"
+  ],
+  "1324": [
+   "gptA"
+  ],
+  "1325": [
+   "gptA",
+   "gptB"
+  ],
+  "1326": [
+   "gptA",
+   "gptB"
+  ],
+  "1327": [
+   "gptA"
+  ],
+  "1328": [
+   "gptA",
+   "gptB"
+  ],
+  "1330": [
+   "gptA",
+   "gptB"
+  ],
+  "1332": [
+   "gptA",
+   "gptB"
+  ],
+  "1333": [
+   "gptA",
+   "gptB"
+  ],
+  "1334": [
+   "gptA",
+   "gptB"
+  ],
+  "1338": [
+   "gptB",
+   "gptA"
+  ],
+  "1339": [
+   "gptB",
+   "gptA"
+  ],
+  "1340": [
+   "gptA",
+   "gptB"
+  ],
+  "1341": [
+   "gptA",
+   "gptB"
+  ],
+  "1342": [
+   "gptA"
+  ],
+  "1343": [
+   "gptA",
+   "gptB"
+  ],
+  "1344": [
+   "gptA"
+  ],
+  "1345": [
+   "gptA"
+  ],
+  "1346": [
+   "gptA",
+   "gptB"
+  ],
+  "1347": [
+   "gptA"
+  ],
+  "1348": [
+   "gptA"
+  ],
+  "1349": [
+   "gptA",
+   "gptB"
+  ],
+  "1351": [
+   "gptB",
+   "gptA"
+  ],
+  "1352": [
+   "gptA",
+   "gptB"
+  ],
+  "1354": [
+   "gptA"
+  ],
+  "1355": [
+   "gptA",
+   "gptB"
+  ],
+  "1356": [
+   "gptA",
+   "gptB"
+  ],
+  "1357": [
+   "gptA",
+   "gptB"
+  ],
+  "1359": [
+   "gptA",
+   "gptB"
+  ],
+  "1361": [
+   "gptA",
+   "gptB"
+  ],
+  "1362": [
+   "gptA"
+  ],
+  "1363": [
+   "gptA",
+   "gptB"
+  ],
+  "1364": [
+   "gptA"
+  ],
+  "1365": [
+   "gptA",
+   "gptB"
+  ],
+  "1367": [
+   "custom:c1"
+  ],
+  "1368": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1369": [
+   "gptA"
+  ],
+  "1371": [
+   "custom:c1",
+   "gptA"
+  ],
+  "1372": [
+   "gptA"
+  ],
+  "1373": [
+   "gptA"
+  ],
+  "1375": [
+   "gptA",
+   "gptB"
+  ],
+  "1377": [
+   "gptA"
+  ],
+  "1378": [
+   "gptA",
+   "gptB"
+  ],
+  "1379": [
+   "gptA",
+   "gptB"
+  ],
+  "1380": [
+   "gptA",
+   "gptB"
+  ],
+  "1381": [
+   "gptA",
+   "gptB"
+  ],
+  "1382": [
+   "gptA",
+   "gptB"
+  ],
+  "1383": [
+   "gptA"
+  ],
+  "1384": [
+   "gptA"
+  ],
+  "1386": [
+   "custom:c1",
+   "gptB"
+  ],
+  "1387": [
+   "gptA"
+  ],
+  "1388": [
+   "gptA"
+  ],
+  "1389": [
+   "gptB"
+  ],
+  "1390": [
+   "gptA"
+  ],
+  "1391": [
+   "gptA"
+  ],
+  "1392": [
+   "gptA"
+  ],
+  "1393": [
+   "gptB",
+   "gptA"
+  ],
+  "1394": [
+   "gptB"
+  ],
+  "1395": [
+   "gptA",
+   "gptB"
+  ],
+  "1396": [
+   "gptB"
+  ],
+  "1397": [
+   "gptA",
+   "gptB"
+  ],
+  "1398": [
+   "gptB"
+  ],
+  "1399": [
+   "gptA",
+   "gptB"
+  ],
+  "1401": [
+   "gptA"
+  ],
+  "1402": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1403": [
+   "gptB",
+   "gptA"
+  ],
+  "1404": [
+   "gptA"
+  ],
+  "1405": [
+   "gptA",
+   "gptB"
+  ],
+  "1406": [
+   "gptA",
+   "gptB"
+  ],
+  "1407": [
+   "gptB"
+  ],
+  "1408": [
+   "custom:c1"
+  ],
+  "1409": [
+   "gptB",
+   "gptA"
+  ],
+  "1410": [
+   "gptA"
+  ],
+  "1411": [
+   "gptB"
+  ],
+  "1412": [
+   "gptA"
+  ],
+  "1413": [
+   "gptA"
+  ],
+  "1414": [
+   "gptA"
+  ],
+  "1415": [
+   "gptB"
+  ],
+  "1416": [
+   "gptA",
+   "gptB"
+  ],
+  "1417": [
+   "gptA",
+   "gptB"
+  ],
+  "1418": [
+   "gptA"
+  ],
+  "1419": [
+   "gptA",
+   "gptB"
+  ],
+  "1420": [
+   "gptB",
+   "gptA"
+  ],
+  "1421": [
+   "gptA",
+   "gptB"
+  ],
+  "1422": [
+   "gptB"
+  ],
+  "1423": [
+   "custom:c1"
+  ],
+  "1424": [
+   "custom:c1"
+  ],
+  "1425": [
+   "gptA",
+   "gptB"
+  ],
+  "1427": [
+   "gptB",
+   "custom:c1"
+  ],
+  "1428": [
+   "gptA"
+  ],
+  "1429": [
+   "gptA"
+  ],
+  "1430": [
+   "gptA"
+  ],
+  "1431": [
+   "gptB",
+   "gptA"
+  ],
+  "1432": [
+   "gptA",
+   "gptB"
+  ],
+  "1433": [
+   "gptA",
+   "gptB"
+  ],
+  "1434": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1435": [
+   "gptA"
+  ],
+  "1436": [
+   "gptA",
+   "gptB"
+  ],
+  "1438": [
+   "gptA"
+  ],
+  "1439": [
+   "gptA"
+  ],
+  "1440": [
+   "gptA"
+  ],
+  "1441": [
+   "gptA"
+  ],
+  "1442": [
+   "gptA"
+  ],
+  "1443": [
+   "custom:c1",
+   "gptB"
+  ],
+  "1444": [
+   "gptB",
+   "gptA"
+  ],
+  "1445": [
+   "gptA",
+   "gptB"
+  ],
+  "1446": [
+   "gptB"
+  ],
+  "1447": [
+   "gptB",
+   "gptA"
+  ],
+  "1448": [
+   "gptA"
+  ],
+  "1450": [
+   "gptB"
+  ],
+  "1453": [
+   "gptA"
+  ],
+  "1454": [
+   "gptA",
+   "gptB"
+  ],
+  "1455": [
+   "gptB"
+  ],
+  "1456": [
+   "gptA"
+  ],
+  "1457": [
+   "custom:c1"
+  ],
+  "1458": [
+   "gptA",
+   "gptB"
+  ],
+  "1461": [
+   "gptA",
+   "gptB"
+  ],
+  "1462": [
+   "gptA",
+   "gptB"
+  ],
+  "1464": [
+   "gptA",
+   "gptB"
+  ],
+  "1465": [
+   "gptA"
+  ],
+  "1466": [
+   "gptA",
+   "origA"
+  ],
+  "1467": [
+   "gptA"
+  ],
+  "1468": [
+   "gptB"
+  ],
+  "1470": [
+   "gptB",
+   "gptA"
+  ],
+  "1471": [
+   "gptA",
+   "gptB"
+  ],
+  "1472": [
+   "custom:c1"
+  ],
+  "1474": [
+   "gptA"
+  ],
+  "1475": [
+   "gptA",
+   "gptB"
+  ],
+  "1476": [
+   "gptA"
+  ],
+  "1477": [
+   "gptB"
+  ],
+  "1478": [
+   "gptA",
+   "gptB"
+  ],
+  "1479": [
+   "gptA",
+   "gptB"
+  ],
+  "1480": [
+   "gptA",
+   "gptB"
+  ],
+  "1482": [
+   "gptA",
+   "gptB"
+  ],
+  "1483": [
+   "gptA"
+  ],
+  "1484": [
+   "gptA"
+  ],
+  "1485": [
+   "gptA",
+   "gptB"
+  ],
+  "1486": [
+   "gptA",
+   "gptB"
+  ],
+  "1487": [
+   "gptA"
+  ],
+  "1488": [
+   "gptA",
+   "custom:c1"
+  ],
+  "1489": [
+   "gptA",
+   "gptB"
+  ],
+  "1490": [
+   "gptA"
+  ],
+  "1491": [
+   "gptB",
+   "gptA"
+  ],
+  "1492": [
+   "gptB",
+   "gptA"
+  ],
+  "1493": [
+   "gptA"
+  ],
+  "1494": [
+   "gptA"
+  ],
+  "1495": [
+   "gptB",
+   "gptA"
+  ],
+  "1496": [
+   "custom:c1"
+  ],
+  "1497": [
+   "gptA",
+   "gptB"
+  ],
+  "1498": [
+   "custom:c1"
+  ],
+  "1500": [
+   "gptA"
+  ],
+  "1501": [
+   "new:1501:n1",
+   "new:1501:n3"
+  ],
+  "1502": [
+   "new:1502:n1"
+  ],
+  "1503": [
+   "new:1503:n2"
+  ],
+  "1504": [
+   "new:1504:n1",
+   "new:1504:n2"
+  ],
+  "1505": [
+   "custom:c1"
+  ],
+  "1506": [
+   "new:1506:n1"
+  ],
+  "1507": [
+   "new:1507:n1",
+   "new:1507:n5"
+  ],
+  "1508": [
+   "new:1508:n1",
+   "new:1508:n2"
+  ],
+  "1509": [
+   "new:1509:n1",
+   "new:1509:n4"
+  ],
+  "1510": [
+   "new:1510:n1",
+   "new:1510:n5"
+  ],
+  "1511": [
+   "new:1511:n1"
+  ],
+  "1512": [
+   "new:1512:n1"
+  ],
+  "1513": [
+   "new:1513:n1"
+  ],
+  "1514": [
+   "new:1514:n3",
+   "new:1514:n1"
+  ],
+  "1515": [
+   "new:1515:n1",
+   "custom:c1"
+  ],
+  "1516": [
+   "new:1516:n1"
+  ],
+  "1517": [
+   "new:1517:n1",
+   "new:1517:n2"
+  ],
+  "1518": [
+   "new:1518:n1"
+  ],
+  "1519": [
+   "new:1519:n1",
+   "new:1519:n2"
+  ],
+  "1520": [
+   "new:1520:n1"
+  ],
+  "1521": [
+   "new:1521:n2"
+  ],
+  "1522": [
+   "new:1522:n1",
+   "new:1522:n3"
+  ],
+  "1523": [
+   "new:1523:n1"
+  ],
+  "1525": [
+   "new:1525:n2",
+   "new:1525:n3"
+  ],
+  "1526": [
+   "new:1526:n1"
+  ],
+  "1527": [
+   "new:1527:n1"
+  ],
+  "1528": [
+   "new:1528:n1"
+  ],
+  "1529": [
+   "new:1529:n1",
+   "new:1529:n2"
+  ],
+  "1530": [
+   "new:1530:n1",
+   "new:1530:n2"
+  ],
+  "1531": [
+   "new:1531:n1"
+  ],
+  "1532": [
+   "new:1532:n2",
+   "new:1532:n3"
+  ],
+  "1533": [
+   "new:1533:n1",
+   "new:1533:n2"
+  ],
+  "1536": [
+   "new:1536:n1"
+  ],
+  "1537": [
+   "custom:c1"
+  ],
+  "1538": [
+   "new:1538:n2"
+  ],
+  "1539": [
+   "custom:c1"
+  ],
+  "1541": [
+   "new:1541:n1"
+  ],
+  "1542": [
+   "new:1542:n1"
+  ],
+  "1543": [
+   "new:1543:n1",
+   "new:1543:n3"
+  ],
+  "1545": [
+   "new:1545:n1"
+  ],
+  "1547": [
+   "new:1547:n1"
+  ],
+  "1548": [
+   "new:1548:n1",
+   "new:1548:n2"
+  ],
+  "1549": [
+   "new:1549:n1"
+  ],
+  "1550": [
+   "new:1550:n1",
+   "new:1550:n2"
+  ],
+  "1551": [
+   "new:1551:n1"
+  ],
+  "1552": [
+   "new:1552:n1"
+  ],
+  "1553": [
+   "new:1553:n1"
+  ],
+  "1554": [
+   "new:1554:n1"
+  ],
+  "1555": [
+   "new:1555:n1"
+  ],
+  "1556": [
+   "new:1556:n1",
+   "new:1556:n2"
+  ],
+  "1557": [
+   "new:1557:n1"
+  ],
+  "1558": [
+   "new:1558:n1"
+  ],
+  "1559": [
+   "custom:c1"
+  ],
+  "1561": [
+   "new:1561:n1",
+   "new:1561:n2"
+  ],
+  "1562": [
+   "new:1562:n1",
+   "new:1562:n2"
+  ],
+  "1563": [
+   "new:1563:n1"
+  ],
+  "1564": [
+   "new:1564:n1"
+  ],
+  "1565": [
+   "new:1565:n3"
+  ],
+  "1566": [
+   "new:1566:n2"
+  ],
+  "1569": [
+   "new:1569:n1"
+  ],
+  "1571": [
+   "new:1571:n1",
+   "new:1571:n2"
+  ],
+  "1573": [
+   "new:1573:n1",
+   "new:1573:n3"
+  ],
+  "1574": [
+   "custom:c1"
+  ],
+  "1581": [
+   "new:1581:n1"
+  ],
+  "1584": [
+   "new:1584:n1",
+   "new:1584:n2"
+  ],
+  "1588": [
+   "new:1588:n1",
+   "new:1588:n2"
+  ],
+  "1589": [
+   "new:1589:n2"
+  ],
+  "1590": [
+   "new:1590:n1"
+  ],
+  "1593": [
+   "new:1593:n1"
+  ],
+  "1594": [
+   "custom:c1"
+  ],
+  "1597": [
+   "new:1597:n1"
+  ],
+  "1601": [
+   "new:1601:n1",
+   "new:1601:n2"
+  ],
+  "1602": [
+   "custom:c1"
+  ],
+  "1604": [
+   "new:1604:n2"
+  ],
+  "1605": [
+   "new:1605:n1",
+   "new:1605:n4"
+  ],
+  "1606": [
+   "new:1606:n1"
+  ],
+  "1607": [
+   "new:1607:n1"
+  ],
+  "1608": [
+   "new:1608:n1"
+  ],
+  "1609": [
+   "new:1609:n2"
+  ],
+  "1610": [
+   "new:1610:n2"
+  ],
+  "1611": [
+   "custom:c1"
+  ],
+  "1612": [
+   "new:1612:n1"
+  ],
+  "1613": [
+   "new:1613:n2",
+   "new:1613:n4"
+  ],
+  "1614": [
+   "new:1614:n3"
+  ],
+  "1615": [
+   "new:1615:n1"
+  ],
+  "1617": [
+   "new:1617:n1",
+   "new:1617:n2"
+  ],
+  "1618": [
+   "new:1618:n1",
+   "new:1618:n3"
+  ],
+  "1622": [
+   "new:1622:n1",
+   "new:1622:n3"
+  ],
+  "1623": [
+   "new:1623:n1"
+  ],
+  "1624": [
+   "custom:c1"
+  ],
+  "1625": [
+   "new:1625:n1"
+  ],
+  "1626": [
+   "new:1626:n1",
+   "new:1626:n2"
+  ],
+  "1627": [
+   "new:1627:n1"
+  ],
+  "1628": [
+   "new:1628:n1"
+  ],
+  "1629": [
+   "custom:c1"
+  ],
+  "1632": [
+   "new:1632:n1"
+  ],
+  "1633": [
+   "new:1633:n1",
+   "new:1633:n2"
+  ],
+  "1634": [
+   "new:1634:n1"
+  ],
+  "1637": [
+   "new:1637:n3"
+  ],
+  "1638": [
+   "custom:c1"
+  ],
+  "1642": [
+   "custom:c1"
+  ],
+  "1649": [
+   "new:1649:n1"
+  ],
+  "1650": [
+   "new:1650:n1",
+   "new:1650:n2"
+  ],
+  "1651": [
+   "new:1651:n1",
+   "new:1651:n2"
+  ],
+  "1652": [
+   "new:1652:n1"
+  ],
+  "1653": [
+   "new:1653:n1"
+  ],
+  "1654": [
+   "new:1654:n1"
+  ],
+  "1655": [
+   "new:1655:n1"
+  ],
+  "1656": [
+   "new:1656:n1"
+  ],
+  "1657": [
+   "new:1657:n1"
+  ]
+ },
+ "custom": {
+  "10": [
+   {
+    "id": "c1",
+    "cue": "Карп капает",
+    "text": "Муж вернулся с рыбалки, держит в руках карпа с которого капает на ковер"
+   }
+  ],
+  "15": [
+   {
+    "id": "c1",
+    "cue": "Плеть",
+    "text": "Плеть лежит на тарелке накрученная на вилку как спагетти"
+   }
+  ],
+  "16": [
+   {
+    "id": "c1",
+    "cue": "КАПитан",
+    "text": "Капитан ГИБДД пьет из чашки на улице, с руки свисает жезл"
+   }
+  ],
+  "17": [
+   {
+    "id": "c1",
+    "cue": "ГЛАС народа",
+    "text": "Отдают на выборах опуская бюллетени  в стеклянную урну"
+   }
+  ],
+  "18": [
+   {
+    "id": "c1",
+    "cue": "Пан",
+    "text": "Чешский ПАН стоит со сковородой в руках"
+   }
+  ],
+  "22": [
+   {
+    "id": "c1",
+    "cue": "СТОит УВажать",
+    "text": "кухонную плиту - кормилицу"
+   }
+  ],
+  "23": [
+   {
+    "id": "c1",
+    "cue": "Авеню",
+    "text": "Широкая улица по краям которой духовки вместо деревьев"
+   }
+  ],
+  "29": [
+   {
+    "id": "c1",
+    "cue": "Скрудж в рейве",
+    "text": "Скрудж в рейве беснуется в клубе"
+   }
+  ],
+  "30": [
+   {
+    "id": "c1",
+    "cue": "Робот управляет",
+    "text": "дергает за веревочки марионетку Пьеро"
+   }
+  ],
+  "31": [
+   {
+    "id": "c1",
+    "cue": "Бокс",
+    "text": "В коробке из под обуви на игрушечном ринге боксируют две мышки"
+   }
+  ],
+  "32": [
+   {
+    "id": "c1",
+    "cue": "Блок",
+    "text": "преграждает путь кулака хулигана, защищая каратист  на улице"
+   }
+  ],
+  "35": [
+   {
+    "id": "c1",
+    "cue": "Чая",
+    "text": "неразборчиво произносит пьяница в баре садясь на стул в баре"
+   }
+  ],
+  "52": [
+   {
+    "id": "c1",
+    "cue": "Врут",
+    "text": "те кто говорит что не есть фрукты"
+   }
+  ],
+  "53": [
+   {
+    "id": "c1",
+    "cue": "Эппл",
+    "text": "символ которой надкусанное яблоко"
+   }
+  ],
+  "56": [
+   {
+    "id": "c1",
+    "cue": "Кей к",
+    "text": "сердцу девушки лежит через торт (key)"
+   }
+  ],
+  "57": [
+   {
+    "id": "c1",
+    "cue": "Рай с",
+    "text": "суши - лучший способ съесть много риса"
+   }
+  ],
+  "61": [
+   {
+    "id": "c1",
+    "cue": "IQ Кума",
+    "text": "в Beer - лучшая закуска малосольный огурец"
+   }
+  ],
+  "62": [
+   {
+    "id": "c1",
+    "cue": "Карета",
+    "text": "у Золушки была из моркови (на самом деле)"
+   },
+   {
+    "id": "c2",
+    "cue": "Карате",
+    "text": "ешь больше морковки чтобы кости были крепче"
+   }
+  ],
+  "69": [
+   {
+    "id": "c1",
+    "cue": "Чек Ин",
+    "text": "курица стоит на стойке респешн отеля с табличкой \"Чик ин\""
+   }
+  ],
+  "73": [
+   {
+    "id": "c1",
+    "cue": "cookies (куки)",
+    "text": "оказывается нам предлагали печенье а не назойливые уведомления на сайтах"
+   }
+  ],
+  "75": [
+   {
+    "id": "c1",
+    "cue": "Кен диск",
+    "text": "Сольный альбом Кена"
+   }
+  ],
+  "78": [
+   {
+    "id": "c1",
+    "cue": "Делись шас",
+    "text": "грабитель просит поделиться очень вкусным пирогом, позабыв о деньгах"
+   },
+   {
+    "id": "c2",
+    "cue": "Дели шест",
+    "text": "Две очень вкусные клубнички делать один шест (пилон)"
+   }
+  ],
+  "79": [
+   {
+    "id": "c1",
+    "cue": "Динар (монета)",
+    "text": "стоил ужин в восточной сказке"
+   }
+  ],
+  "80": [
+   {
+    "id": "c1",
+    "cue": "Супермэн, спайдермэн",
+    "text": "мужчины - главные спергерои"
+   }
+  ],
+  "81": [
+   {
+    "id": "c1",
+    "cue": "Умён",
+    "text": "человек, значит - женщина"
+   }
+  ],
+  "82": [
+   {
+    "id": "c1",
+    "cue": "Бой",
+    "text": "в песочнице устроил мальчик"
+   }
+  ],
+  "83": [
+   {
+    "id": "c1",
+    "cue": "Гол",
+    "text": "в кёрлинге забила девочка"
+   }
+  ],
+  "96": [
+   {
+    "id": "c1",
+    "cue": "Фея с",
+    "text": "палочкой омолаживает лицо пациенту"
+   }
+  ],
+  "99": [
+   {
+    "id": "c1",
+    "cue": "Но ус",
+    "text": "растет под носом"
+   }
+  ],
+  "100": [
+   {
+    "id": "c1",
+    "cue": "Иа",
+    "text": "Ослик поднял одно ухо"
+   }
+  ],
+  "102": [
+   {
+    "id": "c1",
+    "cue": "Тусовка",
+    "text": "закончилась потерянным зубом"
+   }
+  ],
+  "110": [
+   {
+    "id": "c1",
+    "cue": "А-а-м",
+    "text": "дай палец по локоть откусит"
+   }
+  ],
+  "111": [
+   {
+    "id": "c1",
+    "cue": "Фин где Нил",
+    "text": "мальчик ногтем мизинца тычет в глобус в финской школе"
+   }
+  ],
+  "112": [
+   {
+    "id": "c1",
+    "cue": "Скинь",
+    "text": "свою старую кожу как змея"
+   }
+  ],
+  "113": [
+   {
+    "id": "c1",
+    "cue": "Боди билдинг",
+    "text": "телостроительство"
+   }
+  ],
+  "115": [
+   {
+    "id": "c1",
+    "cue": "Шоо ты",
+    "text": "говоришь? Спрашивает троль хоббита наклоняясь к нему"
+   }
+  ],
+  "116": [
+   {
+    "id": "c1",
+    "cue": "Синьор",
+    "text": "худощавый синьор огурец стоит напротив синьора помидора"
+   }
+  ],
+  "120": [
+   {
+    "id": "c1",
+    "cue": "Эй Дальтоник",
+    "text": "Кричит взрослый водитель другому пожилому водителю на перекрестке"
+   }
+  ],
+  "121": [
+   {
+    "id": "c1",
+    "cue": "Блэйд",
+    "text": "Охотник на вампиров ослеп"
+   }
+  ],
+  "123": [
+   {
+    "id": "c1",
+    "cue": "Чиифир",
+    "text": "такой крепкий чай выпьет только главный"
+   }
+  ],
+  "125": [
+   {
+    "id": "c1",
+    "cue": "Ко́уч",
+    "text": "советник как тренер подгоняет офисного сотрудника"
+   }
+  ],
+  "140": [
+   {
+    "id": "c1",
+    "cue": "Балтун",
+    "text": "находка для шпиона, ремень на рот и нет забот"
+   }
+  ],
+  "144": [
+   {
+    "id": "c1",
+    "cue": "По киту",
+    "text": "находят несколько карманов, кит в жилетке"
+   }
+  ],
+  "146": [
+   {
+    "id": "c1",
+    "cue": "У учителя",
+    "text": "на руках наручные часы"
+   }
+  ],
+  "148": [
+   {
+    "id": "c1",
+    "cue": "Не класс",
+    "text": "обычному работяге покупать ожерелье"
+   }
+  ],
+  "155": [
+   {
+    "id": "c1",
+    "cue": "Пил",
+    "text": "или не пил, думает забывчивый пациент глядя на таблетку"
+   }
+  ],
+  "166": [
+   {
+    "id": "c1",
+    "cue": "Бас",
+    "text": "в ванной оперный певец распевается утром"
+   }
+  ],
+  "169": [
+   {
+    "id": "c1",
+    "cue": "Уик",
+    "text": "Джон только с виду казался слабым"
+   }
+  ],
+  "171": [
+   {
+    "id": "c1",
+    "cue": "честно",
+    "text": "сундук закопан здесь, говорит пират"
+   }
+  ],
+  "175": [
+   {
+    "id": "c1",
+    "cue": "дизайн из",
+    "text": "за болезненного воображения"
+   }
+  ],
+  "178": [
+   {
+    "id": "c1",
+    "cue": "Грин пис",
+    "text": "за спасение зеленого мира"
+   }
+  ],
+  "179": [
+   {
+    "id": "c1",
+    "cue": "уел он нас",
+    "text": "расстроено говорит соперник глядя на желтое лицо победителя в конкурсе поедателей хот-догов"
+   }
+  ],
+  "180": [
+   {
+    "id": "c1",
+    "cue": "Блэк аут",
+    "text": "черное помещение с черными непрозрачными шторами"
+   }
+  ],
+  "181": [
+   {
+    "id": "c1",
+    "cue": "Ватт",
+    "text": "в лампочке превращается в белый цвет"
+   },
+   {
+    "id": "c2",
+    "cue": "Уайт спирит",
+    "text": "до бела отмоет даже душу"
+   }
+  ],
+  "182": [
+   {
+    "id": "c1",
+    "cue": "Бра у них",
+    "text": "похитители убегают с коричневым бра"
+   }
+  ],
+  "183": [
+   {
+    "id": "c1",
+    "cue": "Пинк Флойд",
+    "text": "рок группа в розовых костюмах"
+   }
+  ],
+  "185": [
+   {
+    "id": "c1",
+    "cue": "Грей",
+    "text": "капитан корабля меняет серые паруса на алые"
+   }
+  ],
+  "186": [
+   {
+    "id": "c1",
+    "cue": "Биг фут",
+    "text": "Бигфут (или сасквоч) - самый большой футболист в команде"
+   }
+  ],
+  "195": [
+   {
+    "id": "c1",
+    "cue": "Даркнет",
+    "text": "Темный вариант интернета"
+   }
+  ],
+  "196": [
+   {
+    "id": "c1",
+    "cue": "Гонг",
+    "text": "удар гонга, горит \"Го́у\" и заставляет боксеров разойтись по углам"
+   }
+  ],
+  "204": [
+   {
+    "id": "c1",
+    "cue": "Синие",
+    "text": "очки на глазах помогают видеть мир"
+   },
+   {
+    "id": "c2",
+    "cue": "Сито",
+    "text": "два сита в очках вместе стекол позволяют видеть"
+   }
+  ],
+  "207": [
+   {
+    "id": "c1",
+    "cue": "Сэнсэй",
+    "text": "сказал мудрость своим ученикам"
+   }
+  ],
+  "210": [
+   {
+    "id": "c1",
+    "cue": "райдер",
+    "text": "писанные требования артиста"
+   }
+  ],
+  "231": [
+   {
+    "id": "c1",
+    "cue": "с ровного",
+    "text": "места можно начать конфликт бросив оскарбление"
+   }
+  ],
+  "241": [
+   {
+    "id": "c1",
+    "cue": "Дёрн",
+    "text": "перевернутый лежит на красивой лужайке"
+   }
+  ],
+  "242": [
+   {
+    "id": "c1",
+    "cue": "Му",
+    "text": "мычит корова, доярка толкает её сзади питаясь двигать"
+   }
+  ],
+  "245": [
+   {
+    "id": "c1",
+    "cue": "Гетто",
+    "text": "доставляет проблемы городу не поучая финансирования"
+   }
+  ],
+  "246": [
+   {
+    "id": "c1",
+    "cue": "Бодибилдинг",
+    "text": "строительство тела"
+   }
+  ],
+  "252": [
+   {
+    "id": "c1",
+    "cue": "МатемаТичка",
+    "text": "в школе учит математике"
+   }
+  ],
+  "253": [
+   {
+    "id": "c1",
+    "cue": "Стадион",
+    "text": "учимся наблюдая за спортсменами"
+   }
+  ],
+  "256": [
+   {
+    "id": "c1",
+    "cue": "День с",
+    "text": "хареографом - танцевать без остановки"
+   }
+  ],
+  "257": [
+   {
+    "id": "c1",
+    "cue": "Кок",
+    "text": "повар который готовит на корабле"
+   }
+  ],
+  "259": [
+   {
+    "id": "c1",
+    "cue": "Чей джемпер",
+    "text": "брат и сестра поменялись джемперами"
+   }
+  ],
+  "260": [
+   {
+    "id": "c1",
+    "cue": "Сел",
+    "text": "продаю костюм потому что он сел после стирки"
+   }
+  ],
+  "263": [
+   {
+    "id": "c1",
+    "cue": "С пандой",
+    "text": "трачу больше на футболку с пандой"
+   }
+  ],
+  "265": [
+   {
+    "id": "c1",
+    "cue": "Вино",
+    "text": "Бутылка вина побеждает пересекая финишную черту"
+   }
+  ],
+  "266": [
+   {
+    "id": "c1",
+    "cue": "Файл",
+    "text": "полиэтиленовый порвался и бумаги рассыпаются - неудача"
+   },
+   {
+    "id": "c2",
+    "cue": "Файл",
+    "text": "не читается, это провал"
+   }
+  ],
+  "267": [
+   {
+    "id": "c1",
+    "cue": "Трамвай и Гена",
+    "text": "крокодил Гена пробует снова забраться на трамвай"
+   },
+   {
+    "id": "c2",
+    "cue": "Три Евгений",
+    "text": "попробуй снова завтра, подготовься к пересдаче"
+   }
+  ],
+  "270": [
+   {
+    "id": "c1",
+    "cue": "Кол",
+    "text": "учитель звонит родителям сообщить что ребенок получил оценку 1"
+   }
+  ],
+  "273": [
+   {
+    "id": "c2",
+    "cue": "Х план",
+    "text": "учитель объясняет уравнения - способ найти Х"
+   }
+  ],
+  "276": [
+   {
+    "id": "c1",
+    "cue": "Фол аут",
+    "text": "судья следует правилам и отправляет игрока на скамейку, тот следует указаниям"
+   }
+  ],
+  "277": [
+   {
+    "id": "c1",
+    "cue": "Лидер",
+    "text": "ведет за собой, руководит подчиненными"
+   }
+  ],
+  "278": [
+   {
+    "id": "c1",
+    "cue": "Обе",
+    "text": "задержанный поднимет обе руки подчиняясь полицейскому"
+   }
+  ],
+  "279": [
+   {
+    "id": "c1",
+    "cue": "Иди сад",
+    "text": "родители решили что малыш готов идти в детский сад"
+   }
+  ],
+  "284": [
+   {
+    "id": "c1",
+    "cue": "Редис",
+    "text": "уменьшать калорийность блюд добавляя редис"
+   }
+  ],
+  "285": [
+   {
+    "id": "c1",
+    "cue": "IN кризис",
+    "text": "увеличивать долги беря кридит в кризис"
+   },
+   {
+    "id": "c2",
+    "cue": "Ink в рис",
+    "text": "Увеличивать голод заливая чернила в запасы риса"
+   }
+  ],
+  "291": [
+   {
+    "id": "c1",
+    "cue": "Река на закате",
+    "text": "Патруль узнал подозреваемого плывущего по реке"
+   },
+   {
+    "id": "c2",
+    "cue": "Рука к найз",
+    "text": "распознал в аптечке крем Найз по упаковке"
+   }
+  ],
+  "297": [
+   {
+    "id": "c1",
+    "cue": "Риф use",
+    "text": "пловец отказывается отдохнуть на рифе"
+   }
+  ],
+  "303": [
+   {
+    "id": "c1",
+    "cue": "Конь висит",
+    "text": "на преграде убеждая больше не заставлять его прыгать"
+   }
+  ],
+  "317": [
+   {
+    "id": "c1",
+    "cue": "Кеп черная борода",
+    "text": "пираты захватывают корабль"
+   },
+   {
+    "id": "c2",
+    "cue": "Капкан черный",
+    "text": "захватить зверя в капкан"
+   }
+  ],
+  "337": [
+   {
+    "id": "c1",
+    "cue": "Див + оут",
+    "text": "посвящается выходу с дивана"
+   }
+  ],
+  "339": [
+   {
+    "id": "c1",
+    "cue": "дисциплина пир",
+    "text": "исчезает голод у дисциплинированный балерины даже на пире"
+   }
+  ],
+  "345": [
+   {
+    "id": "c1",
+    "cue": "Не гриб",
+    "text": "злой, сердитый на поганку"
+   },
+   {
+    "id": "c2",
+    "cue": "Энгри бёрдс",
+    "text": "Злые птички"
+   }
+  ],
+  "350": [
+   {
+    "id": "c1",
+    "cue": "Сикать",
+    "text": "больной малыш жалуется на частые походы в туалет"
+   }
+  ],
+  "351": [
+   {
+    "id": "c1",
+    "cue": "Сэр праздник",
+    "text": "удивленный сэр не ожидал вечеринку сюрприз от родственников"
+   }
+  ],
+  "354": [
+   {
+    "id": "c1",
+    "cue": "Клоун льет",
+    "text": "слезы от одиночества"
+   }
+  ],
+  "356": [
+   {
+    "id": "c1",
+    "cue": "Нервный вес",
+    "text": "взволнованный взгляд худеющего на весы"
+   }
+  ],
+  "370": [
+   {
+    "id": "c1",
+    "cue": "Бизнесмен",
+    "text": "постоянно занятый человек"
+   }
+  ],
+  "373": [
+   {
+    "id": "c1",
+    "cue": "Кефир и эль",
+    "text": "осторожнее смешивай коктейли"
+   }
+  ],
+  "374": [
+   {
+    "id": "c1",
+    "cue": "Карл лез",
+    "text": "неосторожно на лестницу и упал, он беспечный"
+   }
+  ],
+  "376": [
+   {
+    "id": "c1",
+    "cue": "Нес сэр",
+    "text": "необходимо было поросить слугу"
+   }
+  ],
+  "378": [
+   {
+    "id": "c1",
+    "cue": "И не по силе был",
+    "text": "невозможный вес, невозможно поднять"
+   }
+  ],
+  "379": [
+   {
+    "id": "c1",
+    "cue": "Тру",
+    "text": "тру кривое зеркало чтобы увидеть верное отражение - правду"
+   }
+  ],
+  "385": [
+   {
+    "id": "c1",
+    "cue": "картридж",
+    "text": "мужество нужно для его заправки"
+   },
+   {
+    "id": "c2",
+    "cue": "Карлик в джинсах",
+    "text": "маленький карлик мужественно встаёт между великаном и ребенком"
+   }
+  ],
+  "387": [
+   {
+    "id": "c1",
+    "cue": "Деньги жир",
+    "text": "опасность набрать лишний вес когда много денег"
+   }
+  ],
+  "395": [
+   {
+    "id": "c1",
+    "cue": "ЗапуСкай",
+    "text": "в небо бумажные самолетики"
+   }
+  ],
+  "401": [
+   {
+    "id": "c1",
+    "cue": "Сантехник дернулся",
+    "text": "от звука грома, он боится грозы"
+   }
+  ],
+  "402": [
+   {
+    "id": "c1",
+    "cue": "Лайтнинг разъем",
+    "text": "как молния заряжал iPhone"
+   }
+  ],
+  "403": [
+   {
+    "id": "c1",
+    "cue": "Флаер",
+    "text": "хорошо горит в огне"
+   },
+   {
+    "id": "c2",
+    "cue": "Фаина Раневская",
+    "text": "шутки огонь"
+   }
+  ],
+  "404": [
+   {
+    "id": "c1",
+    "cue": "У Поттера фол",
+    "text": "он в квиддиче, пролетел сквозь водопад"
+   }
+  ],
+  "424": [
+   {
+    "id": "c1",
+    "cue": "Плен травы",
+    "text": "растения образовали клетку и захватили в плен"
+   }
+  ],
+  "425": [
+   {
+    "id": "c1",
+    "cue": "Крут",
+    "text": "корень с массивными мышцами, в черных очках и кожаной куртке"
+   },
+   {
+    "id": "c2",
+    "cue": "Рутина",
+    "text": "корень женьшеня наполнит энергией для победы над рутиной"
+   }
+  ],
+  "428": [
+   {
+    "id": "c1",
+    "cue": "Бард",
+    "text": "бредёт по лесу с птицей на шляпе"
+   }
+  ],
+  "433": [
+   {
+    "id": "c1",
+    "cue": "В рог",
+    "text": "гудит лягушка на болоте, чтобы перекричать других"
+   }
+  ],
+  "436": [
+   {
+    "id": "c1",
+    "cue": "Хор с",
+    "text": "лошадьми, превратился в хаос"
+   }
+  ],
+  "441": [
+   {
+    "id": "c1",
+    "cue": "Лай энергично",
+    "text": "вдруг напугаешь льва"
+   }
+  ],
+  "472": [
+   {
+    "id": "c1",
+    "cue": "Фу эль",
+    "text": "ругается машина, ведь ей нужно топиво а не спиртное"
+   }
+  ],
+  "473": [
+   {
+    "id": "c1",
+    "cue": "Мопед",
+    "text": "держит в руках карту и фарой изучает маршрут перед поездкой"
+   },
+   {
+    "id": "c2",
+    "cue": "Рэп мэр",
+    "text": "репер мэр танцует на карте"
+   }
+  ],
+  "481": [
+   {
+    "id": "c1",
+    "cue": "Басом шумит",
+    "text": "сосед распевая песни в ванной комнате"
+   },
+   {
+    "id": "c2",
+    "cue": "Бас рулит",
+    "text": "кричит из ванной комнаты рокер"
+   },
+   {
+    "id": "c3",
+    "cue": "Бас румба",
+    "text": "в ванной комнате устроили танцы, басы колонку качают"
+   }
+  ],
+  "483": [
+   {
+    "id": "c1",
+    "cue": "Ливень room",
+    "text": "в комнате идет дождь человек с зонтом у телевизора"
+   }
+  ],
+  "484": [
+   {
+    "id": "c1",
+    "cue": "Дорога",
+    "text": "за дверью тебя ждет дорога"
+   }
+  ],
+  "486": [
+   {
+    "id": "c1",
+    "cue": "Уол стрит",
+    "text": "улица вся в стенах как лабиринт"
+   }
+  ],
+  "496": [
+   {
+    "id": "c1",
+    "cue": "Марка кит",
+    "text": "рынок где все товары с логотипом в виде синего кита"
+   },
+   {
+    "id": "c2",
+    "cue": "Марка китайская",
+    "text": "на рынке продаются только китайские автомобили"
+   }
+  ],
+  "503": [
+   {
+    "id": "c1",
+    "cue": "Лай, бери",
+    "text": "дрессировщик предлагает собаке залаять и взять книгу в библиотеке"
+   }
+  ],
+  "506": [
+   {
+    "id": "c1",
+    "cue": "Стриж лает",
+    "text": "с фонаря на собаку - та в шоке"
+   }
+  ],
+  "507": [
+   {
+    "id": "c1",
+    "cue": "Скверный",
+    "text": "математик чертит квадраты на площади"
+   }
+  ],
+  "508": [
+   {
+    "id": "c1",
+    "cue": "Корни",
+    "text": "корни дерева вырастают из угла комнаты и точно повторяют его прямой угол."
+   },
+   {
+    "id": "c2",
+    "cue": "Корень на арене",
+    "text": "забился в угол"
+   }
+  ],
+  "509": [
+   {
+    "id": "c1",
+    "cue": "Сайт волка",
+    "text": "свёрстан им на тротуаре"
+   },
+   {
+    "id": "c2",
+    "cue": "Сайга, волк",
+    "text": "гуляют за ручку по тротуару"
+   }
+  ],
+  "511": [
+   {
+    "id": "c1",
+    "cue": "Лярд",
+    "text": "во дворе рассыпан купюрами"
+   },
+   {
+    "id": "c2",
+    "cue": "Яркий дед",
+    "text": "живет в нашем дворе"
+   }
+  ],
+  "513": [
+   {
+    "id": "c1",
+    "cue": "Бордюр",
+    "text": "является границей дороги"
+   }
+  ],
+  "514": [
+   {
+    "id": "c1",
+    "cue": "Ке́мпинг",
+    "text": "лагер у озера"
+   }
+  ],
+  "517": [
+   {
+    "id": "c1",
+    "cue": "Кола и джин",
+    "text": "коктейль студентов колледжа"
+   }
+  ],
+  "519": [
+   {
+    "id": "c1",
+    "cue": "Кантри",
+    "text": "музыкант сидит на карте Америки в ковбойской одежде"
+   }
+  ],
+  "520": [
+   {
+    "id": "c1",
+    "cue": "Корт",
+    "text": "на котором в теннис играют судьи во дворе тюрьмы"
+   }
+  ],
+  "521": [
+   {
+    "id": "c1",
+    "cue": "Конь - Ой",
+    "text": "наступил на монету"
+   }
+  ],
+  "525": [
+   {
+    "id": "c1",
+    "cue": "Найти",
+    "text": "ребёнок фонариком пытается найти луну в кармане ночного неба"
+   }
+  ],
+  "526": [
+   {
+    "id": "c1",
+    "cue": "Море Нины",
+    "text": "утро, курорт, рассвет"
+   }
+  ],
+  "527": [
+   {
+    "id": "c1",
+    "cue": "Иней на Иве",
+    "text": "вечером образовался"
+   }
+  ],
+  "529": [
+   {
+    "id": "c1",
+    "cue": "Манты с",
+    "text": "начинкой месяца, каждый раз сюрприз"
+   },
+   {
+    "id": "c3",
+    "cue": "Мансарда",
+    "text": "на месяц - объявление аренды"
+   }
+  ],
+  "530": [
+   {
+    "id": "c1",
+    "cue": "Пир",
+    "text": "на весь год (а не мир)"
+   },
+   {
+    "id": "c2",
+    "cue": "Жир",
+    "text": "потерял за год 10 кг"
+   }
+  ],
+  "531": [
+   {
+    "id": "c1",
+    "cue": "Тут день",
+    "text": "человек стоит в выделенной клетке текущего дня и показывает себе под ноги: сегодня, тут день"
+   }
+  ],
+  "532": [
+   {
+    "id": "c1",
+    "cue": "Тамара",
+    "text": "переставляет будильник с текущего календарного дня на следующий: проснуться завтра"
+   }
+  ],
+  "533": [
+   {
+    "id": "c1",
+    "cue": "Есть ты дай",
+    "text": "вчера ведь не давал"
+   }
+  ],
+  "534": [
+   {
+    "id": "c1",
+    "cue": "Аура",
+    "text": "светящаяся аура охватывает путь минутной стрелки за полный оборот, ровно час."
+   },
+   {
+    "id": "c2",
+    "cue": "Ау",
+    "text": "человек зовёт кукушку в часах, она отвечает после полного оборота минутной стрелки, через час."
+   }
+  ],
+  "537": [
+   {
+    "id": "c1",
+    "cue": "Клаксон",
+    "text": "заменяет звонок будильника и будит спящего за рулем"
+   }
+  ],
+  "538": [
+   {
+    "id": "c1",
+    "cue": "Калина дерево",
+    "text": "ветка калины прокалывает календарь, ягодами отмечая клетки дней сбора урожая."
+   }
+  ],
+  "539": [
+   {
+    "id": "c1",
+    "cue": "Дай ты",
+    "text": "мне надежду на свидание - хочу знать дату нашей встречи"
+   }
+  ],
+  "540": [
+   {
+    "id": "c1",
+    "cue": "Борт, дай",
+    "text": "борт корабля раскрывается и подаёт имениннику праздничный торт"
+   },
+   {
+    "id": "c2",
+    "cue": "Борщ-дэй",
+    "text": "на день рождения бабушка на день рождения ставит на стол не торт, а борщ — с свечками прямо в тарелке"
+   }
+  ],
+  "541": [
+   {
+    "id": "c1",
+    "cue": "Холодей",
+    "text": "ребёнок велит снеговику холодеть, чтобы зимние каникулы длились дольше, и катается рядом на санках"
+   },
+   {
+    "id": "c2",
+    "cue": "Хо́ли Day",
+    "text": "праздник холи с красками, участник праздника Холи бросает горсть цветного порошка"
+   }
+  ],
+  "542": [
+   {
+    "id": "c1",
+    "cue": "Викинг",
+    "text": "переносит гамак на две последние клетки семидневной полосы: отдыхать в выходные."
+   },
+   {
+    "id": "c2",
+    "cue": "Вик и энд",
+    "text": "конец недели - выходные week (уик) + end (энд)"
+   }
+  ],
+  "543": [
+   {
+    "id": "c1",
+    "cue": "Вино терял",
+    "text": "зимой в снегу, желая охладить"
+   }
+  ],
+  "544": [
+   {
+    "id": "c1",
+    "cue": "Спринт",
+    "text": "бегун в спринте отталкивается от пружины и растапливает снег, выпуская весенние цветы."
+   }
+  ],
+  "545": [
+   {
+    "id": "c1",
+    "cue": "Сам мэр",
+    "text": "летом загорает в парке"
+   }
+  ],
+  "546": [
+   {
+    "id": "c1",
+    "cue": "Атом",
+    "text": "вокруг атома вместо электронов кружатся осенние листья, затем падают на землю."
+   }
+  ],
+  "547": [
+   {
+    "id": "c1",
+    "cue": "Сизый нос",
+    "text": "одевайся по сезону,  на зимнем морозе нос синеет"
+   }
+  ],
+  "548": [
+   {
+    "id": "c1",
+    "cue": "Спёрли",
+    "text": "машину рано утром из гаража"
+   }
+  ],
+  "549": [
+   {
+    "id": "c1",
+    "cue": "Лейтенант",
+    "text": "лейтенант прибегает на парад, когда все уже уходят; он опоздал."
+   },
+   {
+    "id": "c2",
+    "cue": "Лает",
+    "text": "на опоздавших — дворняга у остановки лает на всех, кто не опоздал на работу"
+   }
+  ],
+  "550": [
+   {
+    "id": "c1",
+    "cue": "Наука",
+    "text": "учёный требует начать опыт сейчас и нажимает кнопку в момент, когда партнёр ещё собирается ждать."
+   },
+   {
+    "id": "c2",
+    "cue": "На, угощайся",
+    "text": "хозяин вручает гостю горячую булочку - \"Съешь прямо сейчас\""
+   }
+  ],
+  "551": [
+   {
+    "id": "c1",
+    "cue": "Сунь",
+    "text": "хлеб в тостер, он почти поджарился и скоро выскочит."
+   }
+  ],
+  "552": [
+   {
+    "id": "c1",
+    "cue": "Олень весь",
+    "text": "год всегда носит шарф, и в снег, и в жару"
+   },
+   {
+    "id": "c2",
+    "cue": "Олень вальсирует",
+    "text": "всегда"
+   }
+  ],
+  "553": [
+   {
+    "id": "c1",
+    "cue": "Не верь",
+    "text": "обещанию камня улететь; камень никогда не летал и не полетит сам"
+   }
+  ],
+  "554": [
+   {
+    "id": "c1",
+    "cue": "Ох, фен",
+    "text": "так часто включают, что провод истёрся возле выключателя"
+   },
+   {
+    "id": "c2",
+    "cue": "О фен",
+    "text": "часто ударяются головой"
+   }
+  ],
+  "555": [
+   {
+    "id": "c1",
+    "cue": "Сэм Times",
+    "text": "иногда подрабатывает в Washington Post"
+   }
+  ],
+  "557": [
+   {
+    "id": "c1",
+    "cue": "Бифортов",
+    "text": "шнур горит перед взрывом"
+   }
+  ],
+  "558": [
+   {
+    "id": "c1",
+    "cue": "Авто",
+    "text": "автомобиль трогается после того, как поднялся шлагбаум"
+   }
+  ],
+  "559": [
+   {
+    "id": "c1",
+    "cue": "Ферзь стоит",
+    "text": "так что им первый ход не сделать"
+   },
+   {
+    "id": "c2",
+    "cue": "Ферзь",
+    "text": "первым пересекает финишную ленту в гонке шахматных фигур, остальные ещё позади"
+   }
+  ],
+  "560": [
+   {
+    "id": "c1",
+    "cue": "Ласты",
+    "text": "пловец в огромных ластах приплывает последним, все остальные уже вытираются на берегу"
+   },
+   {
+    "id": "c2",
+    "cue": "Ластик",
+    "text": "стирает последний оставшийся след карандаша, больше следов нет"
+   }
+  ],
+  "561": [
+   {
+    "id": "c1",
+    "cue": "Нектар",
+    "text": "чашка нектара ждёт следующую пчелу в очереди, предыдущая уже улетает"
+   }
+  ],
+  "562": [
+   {
+    "id": "c1",
+    "cue": "Фьючерс",
+    "text": "покупатель получает сейчас договор на будущий урожай на бирже"
+   }
+  ],
+  "563": [
+   {
+    "id": "c1",
+    "cue": "Эйнштейн",
+    "text": "раскапывает древнюю амфору"
+   }
+  ],
+  "564": [
+   {
+    "id": "c1",
+    "cue": "Сын черри",
+    "text": "маленький помидорчик за сто лет не эволюционирует в большой томат"
+   }
+  ],
+  "565": [
+   {
+    "id": "c1",
+    "cue": "Каранти́н",
+    "text": "поток реки по течению оградили от заражения"
+   }
+  ],
+  "567": [
+   {
+    "id": "c1",
+    "cue": "Деление",
+    "text": "школьник задерживает автобус, потому что никак не закончит делить деньги в кошельке"
+   }
+  ],
+  "568": [
+   {
+    "id": "c1",
+    "cue": "Нам бы",
+    "text": "удачный номер, число в билете лотереи"
+   },
+   {
+    "id": "c2",
+    "cue": "Номер был",
+    "text": "с красивым числом на двери"
+   }
+  ],
+  "569": [
+   {
+    "id": "c1",
+    "cue": "Кант",
+    "text": "философ считает яблоки, перекладывая по одному и загибая пальцы"
+   }
+  ],
+  "570": [
+   {
+    "id": "c1",
+    "cue": "Зорро",
+    "text": "рисует ноль а не букву Z"
+   },
+   {
+    "id": "c2",
+    "cue": "Зира",
+    "text": "повар высыпал всю зиру, в банке осталось ноль зёрен."
+   }
+  ],
+  "571": [
+   {
+    "id": "c1",
+    "cue": "Ванька-встанька",
+    "text": "один ванька-встанька встаёт на пустой полке"
+   }
+  ],
+  "573": [
+   {
+    "id": "c1",
+    "cue": "Картофель фри",
+    "text": "три палочки картошки на тарелке"
+   }
+  ],
+  "574": [
+   {
+    "id": "c1",
+    "cue": "Фора",
+    "text": "для соперников 4 очка"
+   },
+   {
+    "id": "c2",
+    "cue": "Форд",
+    "text": "на четырех колесах"
+   }
+  ],
+  "575": [
+   {
+    "id": "c1",
+    "cue": "Фаворит",
+    "text": "учителя получил пятерку на уроке"
+   }
+  ],
+  "577": [
+   {
+    "id": "c1",
+    "cue": "Саванна",
+    "text": "семь жирафов едят колючки"
+   }
+  ],
+  "578": [
+   {
+    "id": "c1",
+    "cue": "Эй, ты",
+    "text": "осьминог с восемью шупальцами окликнул другого осьминога"
+   }
+  ],
+  "579": [
+   {
+    "id": "c1",
+    "cue": "Найн",
+    "text": "говорит девятка единице"
+   },
+   {
+    "id": "c2",
+    "cue": "Нить",
+    "text": "девять катушек ниток на столе образуют цифру девять"
+   }
+  ],
+  "580": [
+   {
+    "id": "c1",
+    "cue": "Тень",
+    "text": "двух ладоней показывает десять растопыренных пальцев"
+   },
+   {
+    "id": "c2",
+    "cue": "Тэн",
+    "text": "мощностью 10кВт быстро обогреет комнату"
+   }
+  ],
+  "581": [
+   {
+    "id": "c1",
+    "cue": "и Лев вон",
+    "text": "десять свободных зверей выстроились у клетки и указывают на одиннадцатого"
+   }
+  ],
+  "582": [
+   {
+    "id": "c1",
+    "cue": "Твой эльф",
+    "text": "двенадцатый помощник Санты"
+   }
+  ],
+  "583": [
+   {
+    "id": "c1",
+    "cue": "Твен ты",
+    "text": "двадцатый! Марк Твен заходит последним, и организатор говорит: «Твен, ты двадцатый!»"
+   }
+  ],
+  "585": [
+   {
+    "id": "c1",
+    "cue": "Thousand Islands",
+    "text": "«Тысяча островов»"
+   }
+  ],
+  "586": [
+   {
+    "id": "c1",
+    "cue": "Хавчик",
+    "text": "съел половину пиццы"
+   },
+   {
+    "id": "c2",
+    "cue": "Half-Life",
+    "text": "играл половину детсва"
+   }
+  ],
+  "588": [
+   {
+    "id": "c1",
+    "cue": "Писк",
+    "text": "мышь с писком отгрызает отдельный кусок сыра"
+   }
+  ],
+  "589": [
+   {
+    "id": "c1",
+    "cue": "Пэр",
+    "text": "два пэра в одинаковых мантиях берутся под руки, образуя пару"
+   },
+   {
+    "id": "c2",
+    "cue": "Перья",
+    "text": "два одинаковых пера застёгиваются вместе, как пара варежек"
+   }
+  ],
+  "591": [
+   {
+    "id": "c1",
+    "cue": "Ойл",
+    "text": "из нефти делают всё что угодно"
+   }
+  ],
+  "592": [
+   {
+    "id": "c1",
+    "cue": "Ноунейм",
+    "text": "продукция не имеющая ни одного бренда"
+   }
+  ],
+  "593": [
+   {
+    "id": "c1",
+    "cue": "Сам",
+    "text": "ребёнок берёт несколько конфет из большой полной банки, остальные остаются."
+   }
+  ],
+  "595": [
+   {
+    "id": "c1",
+    "cue": "Фьюжн",
+    "text": "кафе с малым выбором блюд"
+   }
+  ],
+  "596": [
+   {
+    "id": "c1",
+    "cue": "Мор",
+    "text": "больше не повторится, разработайте еще прививок"
+   },
+   {
+    "id": "c2",
+    "cue": "Море",
+    "text": "прибывает: воды становится всё больше"
+   }
+  ],
+  "597": [
+   {
+    "id": "c1",
+    "cue": "Лес",
+    "text": "уменьшился после вырубки, пни показывают, где прежде было больше деревьев"
+   }
+  ],
+  "598": [
+   {
+    "id": "c1",
+    "cue": "И нафталин",
+    "text": "в шкаф положили достаточно нафталина, больше шариков не добавляют, моль улетела"
+   }
+  ],
+  "599": [
+   {
+    "id": "c1",
+    "cue": "Фул-хаус",
+    "text": "полный дом в покере обеспечит победу"
+   }
+  ],
+  "600": [
+   {
+    "id": "c1",
+    "cue": "Бланк",
+    "text": "человек переворачивает бланк, а на нём нет ни одной заполненной строки"
+   }
+  ],
+  "601": [
+   {
+    "id": "c1",
+    "cue": "Холл",
+    "text": "целый неразрезанный торт перекрывает холл"
+   }
+  ],
+  "603": [
+   {
+    "id": "c1",
+    "cue": "Пласт",
+    "text": "к одному пласту теста повар прибавляет второй, плюс один"
+   },
+   {
+    "id": "c2",
+    "cue": "Пластиковый",
+    "text": "плюс стоит посреди квартиры"
+   }
+  ],
+  "604": [
+   {
+    "id": "c1",
+    "cue": "Май, нос",
+    "text": "в мае у снеговика убрали нос, стало на одну деталь меньше"
+   }
+  ],
+  "605": [
+   {
+    "id": "c1",
+    "cue": "Он лил",
+    "text": "только один человек лил воду, остальные держали закрытые лейки"
+   }
+  ],
+  "606": [
+   {
+    "id": "c1",
+    "cue": "Дуб",
+    "text": "дуб протягивает двойную ветку с двумя одинаковыми желудями вместо одного"
+   },
+   {
+    "id": "c2",
+    "cue": "Дубль",
+    "text": "на съемочной площадке близнецы - двойной удар"
+   }
+  ],
+  "607": [
+   {
+    "id": "c1",
+    "cue": "Тотальный ущерб",
+    "text": "общий итог машину не восстановить"
+   }
+  ],
+  "608": [
+   {
+    "id": "c1",
+    "cue": "Циркуль",
+    "text": "циркуль сам шагает по бумаге и вычерчивает круг"
+   }
+  ],
+  "609": [
+   {
+    "id": "c1",
+    "cue": "Дива",
+    "text": "оперная дива делит огромный пирог между зрителями"
+   }
+  ],
+  "610": [
+   {
+    "id": "c1",
+    "cue": "Да, зонт",
+    "text": "покупатель подтверждает выбор зонта, у которого ровно двенадцать спиц"
+   },
+   {
+    "id": "c2",
+    "cue": "Доза",
+    "text": "из 12 витаминов для игрушечного великана состоит из дюжины ягод, три ряда по четыре"
+   }
+  ],
+  "612": [
+   {
+    "id": "c1",
+    "cue": "Ху-ху",
+    "text": "сова ухает у двери и пытается узнать, кто прячется за ней"
+   }
+  ],
+  "613": [
+   {
+    "id": "c1",
+    "cue": "Вера",
+    "text": "где доказательства существования чуда"
+   }
+  ],
+  "614": [
+   {
+    "id": "c1",
+    "cue": "Вен",
+    "text": "нет когда их ищут медики"
+   },
+   {
+    "id": "c2",
+    "cue": "Веник",
+    "text": "пригодится когда займемся уборкой"
+   }
+  ],
+  "615": [
+   {
+    "id": "c1",
+    "cue": "Вай-фай",
+    "text": "человек выясняет, почему пропал вай-фай, и обнаруживает выдернутый провод"
+   }
+  ],
+  "616": [
+   {
+    "id": "c1",
+    "cue": "Хаос",
+    "text": "инструкция Ikea объясняет, как собрать шкаф из хаоса деталей"
+   },
+   {
+    "id": "c2",
+    "cue": "Хаус",
+    "text": "доктор Хаус показывает, как завязать бинт"
+   }
+  ],
+  "617": [
+   {
+    "id": "c1",
+    "cue": "сэндвич",
+    "text": "какой из них твой любимый?"
+   },
+   {
+    "id": "c2",
+    "cue": "Вичка",
+    "text": "какой из прутов выбираешь для розг"
+   }
+  ],
+  "618": [
+   {
+    "id": "c1",
+    "cue": "ЗИС",
+    "text": "это одна из первых марок авто в СССР"
+   }
+  ],
+  "619": [
+   {
+    "id": "c1",
+    "cue": "Зет",
+    "text": "тот символ что оставлял Зорро"
+   }
+  ],
+  "620": [
+   {
+    "id": "c1",
+    "cue": "Здесь",
+    "text": "будут эти шторы - говорит дизайнер"
+   }
+  ],
+  "621": [
+   {
+    "id": "c1",
+    "cue": "Соус",
+    "text": "залил те сосиски что сбежали из тарелки"
+   }
+  ],
+  "623": [
+   {
+    "id": "c1",
+    "cue": "Зверь",
+    "text": "там в кустах спрятался"
+   }
+  ],
+  "624": [
+   {
+    "id": "c1",
+    "cue": "Есаул",
+    "text": "соглашается на предложение и утвердительно кивает своему коню"
+   },
+   {
+    "id": "c2",
+    "cue": "Есть",
+    "text": "повар спрашивает, будет ли гость есть, тот утвердительно кивает и берёт ложку."
+   }
+  ],
+  "625": [
+   {
+    "id": "c1",
+    "cue": "Но у",
+    "text": "пингвина нет билета — кондуктор строго говорит: «No!»"
+   },
+   {
+    "id": "c2",
+    "cue": "Ноу-хау",
+    "text": "нет в открытом доступе, секрет"
+   }
+  ],
+  "627": [
+   {
+    "id": "c1",
+    "cue": "Эндоскоп",
+    "text": "заглянул в желудок и нашёл там пельмень и сосиску"
+   }
+  ],
+  "628": [
+   {
+    "id": "c1",
+    "cue": "Орёт",
+    "text": "бобёр: «Торт или топор?»"
+   },
+   {
+    "id": "c2",
+    "cue": "Орк",
+    "text": "спрашивает в кабак или кабачок"
+   }
+  ],
+  "629": [
+   {
+    "id": "c1",
+    "cue": "Ба́тя",
+    "text": "хотел торт, но увидел ценник"
+   },
+   {
+    "id": "c2",
+    "cue": "Батут",
+    "text": "ребёнок хочет подпрыгнуть, но батут провис и удерживает его у пола"
+   }
+  ],
+  "630": [
+   {
+    "id": "c1",
+    "cue": "Бей козу",
+    "text": "козу изображают на барабане, потому что она талисман команды"
+   }
+  ],
+  "631": [
+   {
+    "id": "c1",
+    "cue": "И фея",
+    "text": "не поможет если золушка лентяй"
+   }
+  ],
+  "632": [
+   {
+    "id": "c1",
+    "cue": "Дзэн",
+    "text": "монах сначала медитирует, затем съедает пирог"
+   }
+  ],
+  "633": [
+   {
+    "id": "c1",
+    "cue": "Соус",
+    "text": "поэтому бургер так вкусен"
+   }
+  ],
+  "634": [
+   {
+    "id": "c1",
+    "cue": "Оля солит",
+    "text": "суп также как в рецепте"
+   }
+  ],
+  "635": [
+   {
+    "id": "c1",
+    "cue": "Верить",
+    "text": "во что-то очень надо для счастья"
+   },
+   {
+    "id": "c2",
+    "cue": "Верь",
+    "text": "и очень счастлив будешь"
+   },
+   {
+    "id": "c3",
+    "cue": "Верь",
+    "text": "и увидишь: этот жираф очень высокий!"
+   }
+  ],
+  "636": [
+   {
+    "id": "c1",
+    "cue": "Ту-ту",
+    "text": "говорить паровозик Томас и тоже уезжает со станции последним"
+   }
+  ],
+  "637": [
+   {
+    "id": "c1",
+    "cue": "Джаз",
+    "text": "концерт только что начался"
+   }
+  ],
+  "638": [
+   {
+    "id": "c1",
+    "cue": "Стиль",
+    "text": "статуя всё ещё стоит неподвижно многие века"
+   },
+   {
+    "id": "c2",
+    "cue": "Стильный",
+    "text": "кот всё еще ждут март, неподвижно"
+   }
+  ],
+  "639": [
+   {
+    "id": "c1",
+    "cue": "Олень редок",
+    "text": "уже устал его искать охотник"
+   },
+   {
+    "id": "c2",
+    "cue": "Оля ради",
+    "text": "фигуры уже не ест сладкое"
+   }
+  ],
+  "640": [
+   {
+    "id": "c1",
+    "cue": "Маю быть",
+    "text": "может быть так кричали в СССР на майских демонстрациях"
+   }
+  ],
+  "641": [
+   {
+    "id": "c1",
+    "cue": "И чаю",
+    "text": "каждому по чашке, девочка играет с куклами"
+   },
+   {
+    "id": "c2",
+    "cue": "И чашку",
+    "text": "за каждым гостем помой после дня рождения"
+   },
+   {
+    "id": "c3",
+    "cue": "И чётко",
+    "text": "каждому по дольке апельсина"
+   }
+  ],
+  "642": [
+   {
+    "id": "c1",
+    "cue": "Эврика",
+    "text": "каждый знает историю об Архимеде"
+   },
+   {
+    "id": "c2",
+    "cue": "иврит",
+    "text": "каждый еврей должен знать"
+   }
+  ],
+  "643": [
+   {
+    "id": "c1",
+    "cue": "Азербайджан",
+    "text": "иная страна с другой культурой"
+   },
+   {
+    "id": "c2",
+    "cue": "А за дверью",
+    "text": "в Нарнию совершенно иной мир"
+   }
+  ],
+  "644": [
+   {
+    "id": "c1",
+    "cue": "Сейм",
+    "text": "депутаты сейма снова собираются за тем же самым столом, узнавая каждую царапину"
+   },
+   {
+    "id": "c2",
+    "cue": "Сей море",
+    "text": "тот же самый принцип - разбрасывай семена по траектории лодки"
+   }
+  ],
+  "645": [
+   {
+    "id": "c1",
+    "cue": "А ну, за",
+    "text": "еще одним пирогом, давай попробуем другую начинку"
+   },
+   {
+    "id": "c2",
+    "cue": "Анна за",
+    "text": "доллар еще один вкус попробовала - другой"
+   }
+  ],
+  "646": [
+   {
+    "id": "c1",
+    "cue": "Э, неважно",
+    "text": "какой- любой! - покупатель о лотерейном билете"
+   }
+  ],
+  "647": [
+   {
+    "id": "c1",
+    "cue": "Боцман",
+    "text": "держит в руках сразу оба якоря"
+   },
+   {
+    "id": "c2",
+    "cue": "Бот",
+    "text": "чистит оба ботика сразу"
+   }
+  ],
+  "648": [
+   {
+    "id": "c1",
+    "cue": "Тизер",
+    "text": "интригует: один из двух подарков — какой выберешь?"
+   },
+   {
+    "id": "c2",
+    "cue": "Айсберг",
+    "text": "капитан Титаник выбирал каким из двух бортов принять удар"
+   }
+  ],
+  "649": [
+   {
+    "id": "c1",
+    "cue": "Ни Зара",
+    "text": "ни H&M ни тот ни другой не остался в России"
+   },
+   {
+    "id": "c2",
+    "cue": "Найм зверя",
+    "text": "в зоопарке - никто не подошел, ни тот ни другой"
+   }
+  ],
+  "650": [
+   {
+    "id": "c1",
+    "cue": "Битва",
+    "text": "кот сидит между двумя подушками, которые выглядят как противники в битве"
+   }
+  ],
+  "651": [
+   {
+    "id": "c1",
+    "cue": "А манго",
+    "text": "манго протискивается среди яблок, окруживших его со всех сторон"
+   },
+   {
+    "id": "c2",
+    "cue": "Оман",
+    "text": "путешественник на карте находит Оман среди соседних стран"
+   }
+  ],
+  "652": [
+   {
+    "id": "c1",
+    "cue": "А Раунд",
+    "text": "удался во время него боксёр бегал вокруг соперника по рингу"
+   },
+   {
+    "id": "c2",
+    "cue": "А рана",
+    "text": "врач обматывает бинт вокруг пальца с ранкой"
+   }
+  ],
+  "653": [
+   {
+    "id": "c1",
+    "cue": "Нирвана",
+    "text": "медитирующий человек придвигает подушку совсем близко к своей, приглашая сесть рядом"
+   },
+   {
+    "id": "c2",
+    "cue": "Нырь",
+    "text": "к двери, домашний отдых уже близко."
+   }
+  ],
+  "654": [
+   {
+    "id": "c1",
+    "cue": "Фара",
+    "text": "посылает длинный луч к маленькому дому далеко на горизонте."
+   },
+   {
+    "id": "c2",
+    "cue": "Фартук",
+    "text": "повар тянет невероятно длинную завязку фартука к кухне далеко за холмом"
+   }
+  ],
+  "655": [
+   {
+    "id": "c1",
+    "cue": "Андерсен",
+    "text": "прячет сказочную книгу под столом"
+   }
+  ],
+  "656": [
+   {
+    "id": "c1",
+    "cue": "Оверса́йз",
+    "text": "свитер поверх всего тела"
+   }
+  ],
+  "657": [
+   {
+    "id": "c1",
+    "cue": "Обувь",
+    "text": "лежит выше, на верхней полке"
+   }
+  ],
+  "658": [
+   {
+    "id": "c1",
+    "cue": "Белый лофт",
+    "text": "находится этажом ниже"
+   },
+   {
+    "id": "c2",
+    "cue": "Белым",
+    "text": "бело под серым снегом ниже он чистый"
+   }
+  ],
+  "659": [
+   {
+    "id": "c1",
+    "cue": "Инса́йд",
+    "text": "информация изнутри конкурента"
+   },
+   {
+    "id": "c2",
+    "cue": "Инсайдер",
+    "text": "сотрудник-инсайдер берет сведения внутри сейфа"
+   }
+  ],
+  "660": [
+   {
+    "id": "c1",
+    "cue": "Аут",
+    "text": "сад - яблоко вылетело за забор"
+   }
+  ],
+  "661": [
+   {
+    "id": "c1",
+    "cue": "Лев там",
+    "text": "жираф показывает на клетку слева"
+   },
+   {
+    "id": "c2",
+    "cue": "Лифт",
+    "text": "слева от лестницы"
+   }
+  ],
+  "662": [
+   {
+    "id": "c1",
+    "cue": "Рай",
+    "text": "правая дорожка ведёт в цветущий рай, левая в пустыню"
+   }
+  ],
+  "664": [
+   {
+    "id": "c1",
+    "cue": "Бекон",
+    "text": "полоска бекона приклеивается к задней стороне куртки, на спину"
+   }
+  ],
+  "665": [
+   {
+    "id": "c1",
+    "cue": "Ап",
+    "text": "дрессировщик командует «ап», пёс прыгает вверх к обручу"
+   }
+  ],
+  "666": [
+   {
+    "id": "c1",
+    "cue": "Да он",
+    "text": "указывает полицейским свидетель указывая вниз"
+   },
+   {
+    "id": "c2",
+    "cue": "Дауншифтер",
+    "text": "вниз по карьерной лестнице"
+   }
+  ],
+  "667": [
+   {
+    "id": "c1",
+    "cue": "Инь",
+    "text": "внутри круга"
+   }
+  ],
+  "668": [
+   {
+    "id": "c1",
+    "cue": "Он",
+    "text": "из Оно - фигурка на торте"
+   }
+  ],
+  "669": [
+   {
+    "id": "c1",
+    "cue": "Этикетка",
+    "text": "у бутылки на поверхности"
+   }
+  ],
+  "670": [
+   {
+    "id": "c1",
+    "cue": "В ром",
+    "text": "плюхнулась муха из супа!"
+   },
+   {
+    "id": "c2",
+    "cue": "Хромой",
+    "text": "пират вылез из бочки!"
+   }
+  ],
+  "671": [
+   {
+    "id": "c1",
+    "cue": "Тунец",
+    "text": "плывёт к кассе за билетом"
+   }
+  ],
+  "672": [
+   {
+    "id": "c1",
+    "cue": "Интуиция",
+    "text": "позволяет взглянуть внутрь проблем"
+   },
+   {
+    "id": "c2",
+    "cue": "Интуиция",
+    "text": "подсказывает мячу лететь внутрь корзины"
+   }
+  ],
+  "673": [
+   {
+    "id": "c1",
+    "cue": "Аутсайдер",
+    "text": "стоит вне группы спортсменов"
+   }
+  ],
+  "674": [
+   {
+    "id": "c1",
+    "cue": "Труба",
+    "text": "человек проходит сквозь длинную трубу от одного края к другому"
+   },
+   {
+    "id": "c2",
+    "cue": "Сруб",
+    "text": "луч света проходит сквозь деревянный сруб"
+   }
+  ],
+  "675": [
+   {
+    "id": "c1",
+    "cue": "Окрас",
+    "text": "маляр меняет окрас забора, проводя широкую полосу поперёк вертикальных досок"
+   }
+  ],
+  "676": [
+   {
+    "id": "c1",
+    "cue": "Илон",
+    "text": "Маск идет вдоль бесконечной ленты конвейера с антеннами Старлинк"
+   }
+  ],
+  "677": [
+   {
+    "id": "c1",
+    "cue": "Пастель",
+    "text": "помогает запечатлеть на холсте прошлое"
+   }
+  ],
+  "679": [
+   {
+    "id": "c1",
+    "cue": "Бис ад",
+    "text": "оркестр чертей рядом с дьяволом исполнили концерт"
+   }
+  ],
+  "680": [
+   {
+    "id": "c1",
+    "cue": "Пихай",
+    "text": "автомобиль позади"
+   }
+  ],
+  "731": [
+   {
+    "id": "c1",
+    "cue": "Конфета дантиста",
+    "text": "он уверенный что она не навредит зубам"
+   }
+  ],
+  "734": [
+   {
+    "id": "c1",
+    "cue": "Кюри рис",
+    "text": "Мария Кюри с лупой любопытно разглядывает светящийся рис"
+   }
+  ],
+  "738": [
+   {
+    "id": "c1",
+    "cue": "Андерсон стандарт",
+    "text": "среди сказок помогает ребенку понимать принципы общества"
+   }
+  ],
+  "739": [
+   {
+    "id": "c1",
+    "cue": "Рим мемчик",
+    "text": "Яркий мем о Цезаре запоминается надолго"
+   }
+  ],
+  "740": [
+   {
+    "id": "c1",
+    "cue": "Форма гитары",
+    "text": "научившись уже не забыть как играть"
+   }
+  ],
+  "750": [
+   {
+    "id": "c1",
+    "cue": "Трамвай",
+    "text": "пытаться догнать уходящий трамвай"
+   }
+  ],
+  "753": [
+   {
+    "id": "c1",
+    "cue": "Инвайт",
+    "text": "приглашает выпить - просто добавь воды"
+   }
+  ],
+  "754": [
+   {
+    "id": "c1",
+    "cue": "Оффер",
+    "text": "предложение работы"
+   }
+  ],
+  "755": [
+   {
+    "id": "c1",
+    "cue": "Акцепт",
+    "text": "принимать соглашаться с офертой (юридическое)"
+   }
+  ],
+  "756": [
+   {
+    "id": "c1",
+    "cue": "Аполлон джаз",
+    "text": "скульптура извиняется перед джаз группой"
+   }
+  ],
+  "757": [
+   {
+    "id": "c1",
+    "cue": "Санкт",
+    "text": "Петербург - местные интеллигенты  благодарны туристам"
+   }
+  ],
+  "761": [
+   {
+    "id": "c1",
+    "cue": "Седло жесткое",
+    "text": "предлагаю идею сделать его мягким"
+   },
+   {
+    "id": "c2",
+    "cue": "Сядь жест",
+    "text": "хозяин предлагает идею присесть гостю"
+   }
+  ],
+  "765": [
+   {
+    "id": "c1",
+    "cue": "В два из...",
+    "text": "продавец советует два фрукта с прилавка"
+   }
+  ],
+  "766": [
+   {
+    "id": "c1",
+    "cue": "Ордер",
+    "text": "на обыск заказывают у судьи, он обеспечивает порядок осмотра"
+   }
+  ],
+  "768": [
+   {
+    "id": "c1",
+    "cue": "Репититор",
+    "text": "заставляет повторять и повторять материал"
+   }
+  ],
+  "769": [
+   {
+    "id": "c1",
+    "cue": "Диск краб",
+    "text": "описывая круг краб двигается по краю диска"
+   }
+  ],
+  "776": [
+   {
+    "id": "c1",
+    "cue": "Девелопер",
+    "text": "развивает застройку района"
+   }
+  ],
+  "777": [
+   {
+    "id": "c1",
+    "cue": "Менеджер",
+    "text": "управляет сотрудниками и предприятием"
+   }
+  ],
+  "785": [
+   {
+    "id": "c1",
+    "cue": "Сыч",
+    "text": "сыч ищет мышь в траве"
+   }
+  ],
+  "786": [
+   {
+    "id": "c1",
+    "cue": "Селекция",
+    "text": "выбирать лучшие экземпляры растения выделяя их между остальными"
+   }
+  ],
+  "788": [
+   {
+    "id": "c1",
+    "cue": "Дискредитация",
+    "text": "отсоединяет человека от общества"
+   }
+  ],
+  "789": [
+   {
+    "id": "c1",
+    "cue": "Да он лодочник",
+    "text": "скачивает воду из лодки чтобы не пойти ко дну"
+   }
+  ],
+  "799": [
+   {
+    "id": "c1",
+    "cue": "Эдельвейс",
+    "text": "цветок в очках дает совет другим цветам"
+   },
+   {
+    "id": "c2",
+    "cue": "Ад вальс",
+    "text": "черти танцуют советуя не попадать к ним"
+   }
+  ],
+  "802": [
+   {
+    "id": "c1",
+    "cue": "Атен́шн",
+    "text": "солдаты замирают «смирно», внимание на командира"
+   }
+  ],
+  "817": [
+   {
+    "id": "c1",
+    "cue": "Диктор в шинели",
+    "text": "держит словарь в руках"
+   }
+  ],
+  "818": [
+   {
+    "id": "c1",
+    "cue": "Дай утке",
+    "text": "хлеба - сомневаться навредит ли он ей"
+   }
+  ],
+  "824": [
+   {
+    "id": "c1",
+    "cue": "Сыр ком стан",
+    "text": "упавший ком сыра мешает ткацкому стану"
+   }
+  ],
+  "829": [
+   {
+    "id": "c1",
+    "cue": "Крайний мужчина",
+    "text": "на опознании виновник преступления"
+   }
+  ],
+  "832": [
+   {
+    "id": "c1",
+    "cue": "Костюм",
+    "text": "обычай для мужчины на свадьбе"
+   }
+  ],
+  "841": [
+   {
+    "id": "c1",
+    "cue": "Брейк фестиваль",
+    "text": "на завтрак там танцы"
+   }
+  ],
+  "846": [
+   {
+    "id": "c1",
+    "cue": "Эй, не мы",
+    "text": "враг целится в двух героев, они показывают на себя в испуге"
+   }
+  ],
+  "847": [
+   {
+    "id": "c1",
+    "cue": "Ты черный",
+    "text": "учитель отмывает сажу с лица ученика после неудачного опыта"
+   }
+  ],
+  "849": [
+   {
+    "id": "c1",
+    "cue": "Хью мэн",
+    "text": "новый супергерой, человек Хью Джекман"
+   }
+  ],
+  "850": [
+   {
+    "id": "c1",
+    "cue": "Кинг-Конг",
+    "text": "король обезьян"
+   }
+  ],
+  "858": [
+   {
+    "id": "c1",
+    "cue": "А лай в",
+    "text": "коробке показывает что подкинутый щенок жив"
+   }
+  ],
+  "859": [
+   {
+    "id": "c1",
+    "cue": "Драг",
+    "text": "дилер попал в тюрьму за наркотики"
+   }
+  ],
+  "880": [
+   {
+    "id": "c1",
+    "cue": "Хор танцует",
+    "text": "даже смотреть больно"
+   }
+  ],
+  "884": [
+   {
+    "id": "c1",
+    "cue": "Мак",
+    "text": "проверяющий помечает каждый мак на огороде"
+   }
+  ],
+  "888": [
+   {
+    "id": "c1",
+    "cue": "Эклер",
+    "text": "съеден, на диете это происходить не должно, но случается"
+   },
+   {
+    "id": "c2",
+    "cue": "Анкер",
+    "text": "вышел из стены - случается и такое"
+   }
+  ],
+  "897": [
+   {
+    "id": "c1",
+    "cue": "Пресса",
+    "text": "газеты и журналы могут надавить на правительство"
+   }
+  ],
+  "903": [
+   {
+    "id": "c1",
+    "cue": "Рим уверено",
+    "text": "доминировал убирая всех врагов"
+   }
+  ],
+  "906": [
+   {
+    "id": "c1",
+    "cue": "Рис серчал",
+    "text": "пока исследовал поля для своего роста"
+   }
+  ],
+  "916": [
+   {
+    "id": "c1",
+    "cue": "Вышибала",
+    "text": "мешает желанию устроить конфликт"
+   }
+  ],
+  "919": [
+   {
+    "id": "c1",
+    "cue": "Эрнест",
+    "text": "зарабатывал журналистикой и литературными публикациями"
+   }
+  ],
+  "923": [
+   {
+    "id": "c1",
+    "cue": "Экзамен",
+    "text": "преподаватель изучает ученика оценивая знания"
+   }
+  ],
+  "926": [
+   {
+    "id": "c1",
+    "cue": "Фыркать",
+    "text": "конь фыркает, но всё равно прощает конюха, забывшего овёс"
+   }
+  ],
+  "927": [
+   {
+    "id": "c1",
+    "cue": "Гейнер",
+    "text": "в спортзале нужен чтобы получать больше результата от каждой тренировки"
+   }
+  ],
+  "934": [
+   {
+    "id": "c1",
+    "cue": "У хана дел",
+    "text": "много но он справляется"
+   }
+  ],
+  "935": [
+   {
+    "id": "c1",
+    "cue": "Хан ангар",
+    "text": "использует развешивая в нем шкуры и драгоценности"
+   }
+  ],
+  "936": [
+   {
+    "id": "c1",
+    "cue": "Хил",
+    "text": "богатырь был от болезни, выздоравливает и становится сильным"
+   }
+  ],
+  "937": [
+   {
+    "id": "c1",
+    "cue": "Гайд",
+    "text": "парк — парк пряток"
+   },
+   {
+    "id": "c2",
+    "cue": "\"Айда",
+    "text": "прятаться!\" - слон предлагает сурикат поиграть в прятки"
+   }
+  ],
+  "938": [
+   {
+    "id": "c1",
+    "cue": "\"Хай\" Рэмбо",
+    "text": "Ты нанят курьером — доставишь пиццу через джунгли"
+   }
+  ],
+  "939": [
+   {
+    "id": "c1",
+    "cue": "Хэдхантер",
+    "text": "охотник за головами"
+   }
+  ],
+  "940": [
+   {
+    "id": "c1",
+    "cue": "Гарри",
+    "text": "торопится в Хогвартс"
+   }
+  ],
+  "941": [
+   {
+    "id": "c1",
+    "cue": "Филипок",
+    "text": "чувствовал мороз по дороге в школу"
+   },
+   {
+    "id": "c2",
+    "cue": "Филипп",
+    "text": "испытывал чувства к Алле"
+   }
+  ],
+  "942": [
+   {
+    "id": "c1",
+    "cue": "Феерия",
+    "text": "страха: паук выпрыгнул из торта"
+   }
+  ],
+  "945": [
+   {
+    "id": "c1",
+    "cue": "Воры",
+    "text": "беспокоят законопослушных граждан"
+   }
+  ],
+  "950": [
+   {
+    "id": "c1",
+    "cue": "Каток",
+    "text": "за рулем которого сидит кот"
+   }
+  ],
+  "957": [
+   {
+    "id": "c1",
+    "cue": "Бай сиквел",
+    "text": "зритель на велосипеде едет из кинотеатра"
+   }
+  ],
+  "967": [
+   {
+    "id": "c1",
+    "cue": "Речь",
+    "text": "о власти - значит о богатстве"
+   }
+  ],
+  "969": [
+   {
+    "id": "c1",
+    "cue": "Бил по столу",
+    "text": "чтобы принесли счёт"
+   }
+  ],
+  "972": [
+   {
+    "id": "c1",
+    "cue": "Дебитор",
+    "text": "залез в долги"
+   }
+  ],
+  "973": [
+   {
+    "id": "c1",
+    "cue": "Фаина несёт",
+    "text": "чемодан денег - поправить финансы"
+   }
+  ],
+  "985": [
+   {
+    "id": "c1",
+    "cue": "Савана тина",
+    "text": "вся савана покрыта тиной семнадцать дней тропических дождей"
+   }
+  ],
+  "986": [
+   {
+    "id": "c1",
+    "cue": "Айти",
+    "text": "принимает сотрудников даже в восемнадцать лет"
+   }
+  ],
+  "987": [
+   {
+    "id": "c1",
+    "cue": "Найм Тина",
+    "text": "кадровик Тина не может выбрать из девятнадцати претендентов"
+   }
+  ],
+  "988": [
+   {
+    "id": "c1",
+    "cue": "Сер, тебе",
+    "text": "тридцать лет"
+   }
+  ],
+  "989": [
+   {
+    "id": "c1",
+    "cue": "Фото",
+    "text": "Морти на его юбилей сорокалетнего"
+   }
+  ],
+  "992": [
+   {
+    "id": "c1",
+    "cue": "Сев на нить",
+    "text": "Штирлиц был близок к провалу - Семнадцать мгновений весны"
+   }
+  ],
+  "994": [
+   {
+    "id": "c1",
+    "cue": "Найти",
+    "text": "любовь в 90 лет - вот удача!"
+   }
+  ],
+  "999": [
+   {
+    "id": "c1",
+    "cue": "Соврал",
+    "text": "Пиноккио несколько раз на допросе - нос и вырос"
+   }
+  ],
+  "1003": [
+   {
+    "id": "c1",
+    "cue": "Алло, зову",
+    "text": "тебя, хотя ты далеко"
+   },
+   {
+    "id": "c2",
+    "cue": "Олень зол",
+    "text": "хотя молчит"
+   }
+  ],
+  "1005": [
+   {
+    "id": "c1",
+    "cue": "Файл",
+    "text": "в то время как мы работали рос и рос в размере"
+   }
+  ],
+  "1006": [
+   {
+    "id": "c1",
+    "cue": "Дзен",
+    "text": "спокойнее, чем шум"
+   },
+   {
+    "id": "c2",
+    "cue": "Тень",
+    "text": "длиннее, чем человек"
+   }
+  ],
+  "1013": [
+   {
+    "id": "c1",
+    "cue": "Ведро",
+    "text": "пролилось теперь пол мокрый"
+   }
+  ],
+  "1016": [
+   {
+    "id": "c1",
+    "cue": "Перфекционизм",
+    "text": "требование идеала и безупречности во всем"
+   }
+  ],
+  "1019": [
+   {
+    "id": "c1",
+    "cue": "Спешил",
+    "text": "кондитер в особенный день, готовил особенный торт"
+   },
+   {
+    "id": "c2",
+    "cue": "Спешился",
+    "text": "воин специально перед награждением - получил особенный приз"
+   }
+  ],
+  "1020": [
+   {
+    "id": "c1",
+    "cue": "Шуруп",
+    "text": "уверенно заходит в стену - он точно будет держать"
+   }
+  ],
+  "1021": [
+   {
+    "id": "c1",
+    "cue": "Урон",
+    "text": "от ошибок в знании ПДД - неправильный маневр"
+   }
+  ],
+  "1022": [
+   {
+    "id": "c1",
+    "cue": "Ворд",
+    "text": "Word - на странице одно слово (пока)"
+   }
+  ],
+  "1023": [
+   {
+    "id": "c1",
+    "cue": "Литера",
+    "text": "типографское представление буквы"
+   }
+  ],
+  "1026": [
+   {
+    "id": "c1",
+    "cue": "Ай да идея!",
+    "text": "вот что по-настоящему кричал Пифагор"
+   }
+  ],
+  "1029": [
+   {
+    "id": "c1",
+    "cue": "Ну знай",
+    "text": "теперь эти новости"
+   }
+  ],
+  "1030": [
+   {
+    "id": "c1",
+    "cue": "Саентология",
+    "text": "в России должна иметь подпись о нежелательной организации"
+   },
+   {
+    "id": "c2",
+    "cue": "Саентолог",
+    "text": "ставит подпись"
+   }
+  ],
+  "1034": [
+   {
+    "id": "c1",
+    "cue": "Войско",
+    "text": "боевой клич - голос войска"
+   }
+  ],
+  "1047": [
+   {
+    "id": "c1",
+    "cue": "Хэви",
+    "text": "метал есть у меня в плейлисте"
+   }
+  ],
+  "1058": [
+   {
+    "id": "c1",
+    "cue": "Май",
+    "text": "лучшая возможность для отпуска"
+   },
+   {
+    "id": "c2",
+    "cue": "Мел",
+    "text": "им можно писать на доске"
+   }
+  ],
+  "1059": [
+   {
+    "id": "c1",
+    "cue": "Маяк тонуть",
+    "text": "кораблям не дает, может спасти в бурю"
+   }
+  ],
+  "1060": [
+   {
+    "id": "c1",
+    "cue": "Масть",
+    "text": "должна быть козырной чтобы бить любую другую"
+   }
+  ],
+  "1062": [
+   {
+    "id": "c1",
+    "cue": "Ютуб",
+    "text": "предлагает то что интересно тебе"
+   }
+  ],
+  "1063": [
+   {
+    "id": "c1",
+    "cue": "Хиппи",
+    "text": "мой дед - он когда то был хиппи"
+   }
+  ],
+  "1065": [
+   {
+    "id": "c1",
+    "cue": "Итог",
+    "text": "результат решения, вот оно"
+   }
+  ],
+  "1067": [
+   {
+    "id": "c1",
+    "cue": "Змей",
+    "text": "воздушный на веревочке у двух бегущих девочек - они наконец его запустили"
+   }
+  ],
+  "1072": [
+   {
+    "id": "c1",
+    "cue": "Земля",
+    "text": "принадлежит им, говорить инопланетянин"
+   },
+   {
+    "id": "c2",
+    "cue": "Земли",
+    "text": "король раздает феодалам земли, теперь она пренадлежит им"
+   }
+  ],
+  "1073": [
+   {
+    "id": "c1",
+    "cue": "Май",
+    "text": "мой любимый месяц"
+   },
+   {
+    "id": "c2",
+    "cue": "Майнер",
+    "text": "смотрит на биткойн, произносит - \"моя прелесть\""
+   }
+  ],
+  "1075": [
+   {
+    "id": "c1",
+    "cue": "Из",
+    "text": "своего рюкзака он достает его ноутбук"
+   }
+  ],
+  "1077": [
+   {
+    "id": "c1",
+    "cue": "Тауэр",
+    "text": "наша гордость - говорит типичный житель Лондона"
+   }
+  ],
+  "1078": [
+   {
+    "id": "c1",
+    "cue": "Зерно",
+    "text": "их урожай - залог их вышивания"
+   }
+  ],
+  "1079": [
+   {
+    "id": "c1",
+    "cue": "Иван чай",
+    "text": "даже он подорожал в магазинах"
+   }
+  ],
+  "1080": [
+   {
+    "id": "c1",
+    "cue": "О, мост",
+    "text": "турист с картой, нашел мост и дошёл до него - почти"
+   }
+  ],
+  "1081": [
+   {
+    "id": "c1",
+    "cue": "Сельдь дымится",
+    "text": "редко, обычно её солят"
+   },
+   {
+    "id": "c2",
+    "cue": "Село дом",
+    "text": "редко больше 2 этажей, а уж многоэтажек там не встретишь"
+   }
+  ],
+  "1085": [
+   {
+    "id": "c1",
+    "cue": "Life",
+    "text": "жизнь прожита не зря если о тебе написал в этом журнале"
+   }
+  ],
+  "1088": [
+   {
+    "id": "c1",
+    "cue": "Пень",
+    "text": "в пень воткнута большая ручка, лесник пытается вытащить её как экскалибур"
+   }
+  ],
+  "1090": [
+   {
+    "id": "c1",
+    "cue": "Эго",
+    "text": "моё эго было огромным, но это было много лет тому назад"
+   }
+  ],
+  "1091": [
+   {
+    "id": "c1",
+    "cue": "Арт",
+    "text": "галлерея - место где искусство встречается со зрителем"
+   },
+   {
+    "id": "c2",
+    "cue": "Артель",
+    "text": "артель мастеров искусства превращает глину в выразительную скульптуру."
+   }
+  ],
+  "1092": [
+   {
+    "id": "c1",
+    "cue": "Оскар",
+    "text": "вручают автору сценария фильма"
+   }
+  ],
+  "1093": [
+   {
+    "id": "c1",
+    "cue": "Болван",
+    "text": "играет ногами с баскетбольным мячом"
+   },
+   {
+    "id": "c2",
+    "cue": "Болото",
+    "text": "а посередине воздушный шар"
+   }
+  ],
+  "1094": [
+   {
+    "id": "c1",
+    "cue": "Бейсбол",
+    "text": "в Америке хорошая основа для поступления в колледж"
+   }
+  ],
+  "1096": [
+   {
+    "id": "c1",
+    "cue": "Белый",
+    "text": "колокол на колокольне церкви"
+   }
+  ],
+  "1097": [
+   {
+    "id": "c1",
+    "cue": "Бор новый",
+    "text": "рожденный трудами лесников которые его высадили ровными линиями"
+   }
+  ],
+  "1100": [
+   {
+    "id": "c1",
+    "cue": "Эй, Джек",
+    "text": "не подходи к краю! - кричит команда Джеку Воробью на доске"
+   }
+  ],
+  "1101": [
+   {
+    "id": "c1",
+    "cue": "Индикатор",
+    "text": "образования - диплом"
+   }
+  ],
+  "1103": [
+   {
+    "id": "c1",
+    "cue": "Этот форт",
+    "text": "построен благодаря усилиям Петра I и старанием военных"
+   },
+   {
+    "id": "c2",
+    "cue": "Эфир ОРТ",
+    "text": "прекратился благодаря стараниям 1 канала"
+   }
+  ],
+  "1106": [
+   {
+    "id": "c1",
+    "cue": "Элвис",
+    "text": "\"Кто если не я\" танцует уникальный танец"
+   },
+   {
+    "id": "c2",
+    "cue": "Эль с",
+    "text": "том-ямом хочет ещё риса"
+   }
+  ],
+  "1109": [
+   {
+    "id": "c1",
+    "cue": "Экватор",
+    "text": "делит земной шар на равные половины"
+   }
+  ],
+  "1121": [
+   {
+    "id": "c1",
+    "cue": "Фея и русалка",
+    "text": "делят сокровища поровну"
+   }
+  ],
+  "1131": [
+   {
+    "id": "c1",
+    "cue": "Фаренгейт",
+    "text": "иностранная единица измерения температуры"
+   }
+  ],
+  "1134": [
+   {
+    "id": "c1",
+    "cue": "Фанат",
+    "text": "веселится после встречи с кумиром"
+   }
+  ],
+  "1139": [
+   {
+    "id": "c1",
+    "cue": "Гаврила-мент",
+    "text": "защитил правительство от грабителей"
+   }
+  ],
+  "1140": [
+   {
+    "id": "c1",
+    "cue": "Грета",
+    "text": "Тунберг - отличный представитель Greenpeace"
+   }
+  ],
+  "1143": [
+   {
+    "id": "c1",
+    "cue": "Интересный трест",
+    "text": "предлагает большие проценты в случае вклада"
+   }
+  ],
+  "1144": [
+   {
+    "id": "c1",
+    "cue": "Атом",
+    "text": "это отдельная часть молекулы - на столе у преподавателя физики"
+   }
+  ],
+  "1147": [
+   {
+    "id": "c1",
+    "cue": "Лови",
+    "text": "кодекс - это закон"
+   },
+   {
+    "id": "c2",
+    "cue": "Ловят",
+    "text": "за нарушения закона и сажают в тюрьму"
+   }
+  ],
+  "1148": [
+   {
+    "id": "c1",
+    "cue": "Лев вел",
+    "text": "беседы со своей супругой - так появилась \"Война и мир\""
+   }
+  ],
+  "1154": [
+   {
+    "id": "c1",
+    "cue": "Майнинг",
+    "text": "основной доход майнера"
+   }
+  ],
+  "1156": [
+   {
+    "id": "c1",
+    "cue": "Е-майл",
+    "text": "преодолевает мили за секунду"
+   }
+  ],
+  "1159": [
+   {
+    "id": "c1",
+    "cue": "Му видео",
+    "text": "кинофильм о жизни доярок"
+   }
+  ],
+  "1162": [
+   {
+    "id": "c1",
+    "cue": "Натюрморт",
+    "text": "изображение природной красоты"
+   }
+  ],
+  "1164": [
+   {
+    "id": "c1",
+    "cue": "Нора с",
+    "text": "северной стороны белого медведя - он любит похолоднее"
+   }
+  ],
+  "1167": [
+   {
+    "id": "c1",
+    "cue": "Вансы",
+    "text": "однажды одев не захочешь другую обувь"
+   }
+  ],
+  "1177": [
+   {
+    "id": "c1",
+    "cue": "Прийти",
+    "text": "на праздник красивой в симпатичном платье"
+   }
+  ],
+  "1183": [
+   {
+    "id": "c1",
+    "cue": "Крик",
+    "text": "«Быстрее!» - тренер ободряет команду"
+   }
+  ],
+  "1184": [
+   {
+    "id": "c1",
+    "cue": "Кивает",
+    "text": "и кивает, тихоня, почти нечего не говорит"
+   },
+   {
+    "id": "c2",
+    "cue": "Кувейт",
+    "text": "сейчас там тихо"
+   }
+  ],
+  "1185": [
+   {
+    "id": "c1",
+    "cue": "Ква IT",
+    "text": "лягушка вполне может работать за компьютером довольно неплохо"
+   }
+  ],
+  "1188": [
+   {
+    "id": "c1",
+    "cue": "Резонная",
+    "text": "причина разумно объясняет, почему я снова опоздал: часы шли, а я — нет."
+   }
+  ],
+  "1193": [
+   {
+    "id": "c1",
+    "cue": "Роллс-Ройс",
+    "text": "играет главную роль на дороге"
+   }
+  ],
+  "1194": [
+   {
+    "id": "c1",
+    "cue": "Рулить",
+    "text": "управляя автомобилем нужно по правилам"
+   }
+  ],
+  "1195": [
+   {
+    "id": "c1",
+    "cue": "Сенса́ция",
+    "text": "наука-сенсация: учёные доказали, что понедельник наступает даже без приглашения"
+   }
+  ],
+  "1196": [
+   {
+    "id": "c1",
+    "cue": "Ситечко",
+    "text": "ситечко на сиденье: чай процеживает, а само никак не может встать"
+   }
+  ],
+  "1199": [
+   {
+    "id": "c1",
+    "cue": "Сириус",
+    "text": "серьезный инопланетяне прилетел на Землю"
+   }
+  ],
+  "1203": [
+   {
+    "id": "c1",
+    "cue": "Скелет",
+    "text": "в школе  приобрёл навык танцевать"
+   }
+  ],
+  "1204": [
+   {
+    "id": "c1",
+    "cue": "Соус",
+    "text": "общается со всеми в салате выражая общественную позицию"
+   },
+   {
+    "id": "c2",
+    "cue": "Сошел",
+    "text": "с ума от социальных сетей"
+   }
+  ],
+  "1205": [
+   {
+    "id": "c1",
+    "cue": "Со страницы сайта",
+    "text": "люди узнают что происходит в обществе"
+   }
+  ],
+  "1206": [
+   {
+    "id": "c1",
+    "cue": "Сон гнома",
+    "text": "храпит так, что эльфы принимают это за песню"
+   }
+  ],
+  "1208": [
+   {
+    "id": "c1",
+    "cue": "Соус",
+    "text": "сгорел на юге и стал кетчупом"
+   }
+  ],
+  "1209": [
+   {
+    "id": "c1",
+    "cue": "Спец",
+    "text": "агент ищет место в космосе"
+   }
+  ],
+  "1211": [
+   {
+    "id": "c1",
+    "cue": "Стейк",
+    "text": "объявил своё состояние прожарки"
+   }
+  ],
+  "1212": [
+   {
+    "id": "c1",
+    "cue": "Степпер",
+    "text": "сжигает калории шаг за шагом"
+   }
+  ],
+  "1213": [
+   {
+    "id": "c1",
+    "cue": "Шкаф",
+    "text": "забитый вещами - одна футболка падает, и начинается лавина"
+   }
+  ],
+  "1215": [
+   {
+    "id": "c1",
+    "cue": "Саксофо́н",
+    "text": "успех саксофона пришёл, когда даже соседи начали аплодировать"
+   }
+  ],
+  "1216": [
+   {
+    "id": "c1",
+    "cue": "Сачок",
+    "text": "поймал тапок- такой необычный улов"
+   }
+  ],
+  "1221": [
+   {
+    "id": "c1",
+    "cue": "Таска",
+    "text": "нападает от количества задач в списке дел"
+   }
+  ],
+  "1224": [
+   {
+    "id": "c1",
+    "cue": "Тут гейзер",
+    "text": "собрал всех зверей вместе"
+   }
+  ],
+  "1225": [
+   {
+    "id": "c1",
+    "cue": "Травяной бал",
+    "text": "превратился в trouble: ведущий потерялся в газоне"
+   }
+  ],
+  "1227": [
+   {
+    "id": "c1",
+    "cue": "Юный ты",
+    "text": "сказал: «Я unit!» — и превратился в единицу измерения"
+   }
+  ],
+  "1228": [
+   {
+    "id": "c1",
+    "cue": "Уж у Элли",
+    "text": "обычное дело для Изумрудного города"
+   },
+   {
+    "id": "c2",
+    "cue": "Ужин с элем",
+    "text": "обычно подают в Хогсмиде"
+   }
+  ],
+  "1229": [
+   {
+    "id": "c1",
+    "cue": "Валюта",
+    "text": "не ценность, но важно значение её курса"
+   }
+  ],
+  "1230": [
+   {
+    "id": "c1",
+    "cue": "Варя",
+    "text": "ест всякое, разное и не делится"
+   }
+  ],
+  "1232": [
+   {
+    "id": "c1",
+    "cue": "Ворон",
+    "text": "ворон останавливает войну игрушечных армий, унося их королей"
+   }
+  ],
+  "1233": [
+   {
+    "id": "c1",
+    "cue": "Вей",
+    "text": "ветер, вей вдоль тропы: путник идёт по пути"
+   }
+  ],
+  "1234": [
+   {
+    "id": "c1",
+    "cue": "Ветер",
+    "text": "взвешивает тучи записывая каждой вес"
+   }
+  ],
+  "1235": [
+   {
+    "id": "c1",
+    "cue": "Вельвет",
+    "text": "хорош тот колодец что обит вельветом, из него достают ведро воды с мягкой ручкой"
+   }
+  ],
+  "1236": [
+   {
+    "id": "c1",
+    "cue": "Весть",
+    "text": "пришла с запада"
+   }
+  ],
+  "1237": [
+   {
+    "id": "c1",
+    "cue": "Вездеходу",
+    "text": "всё равно, грязь или болото — он проедет!"
+   }
+  ],
+  "1238": [
+   {
+    "id": "c1",
+    "cue": "Винт in",
+    "text": "Винт сказал: «I’m in!» — и оказался внутри коробки"
+   },
+   {
+    "id": "c2",
+    "cue": "Визин",
+    "text": "капли попали внутрь глаза"
+   }
+  ],
+  "1239": [
+   {
+    "id": "c1",
+    "cue": "Йети",
+    "text": "всё ещё прячется в снежной пещере"
+   },
+   {
+    "id": "c2",
+    "cue": "Едь!",
+    "text": "кричит навигатор, но машина ещё стоит на месте"
+   }
+  ],
+  "1240": [
+   {
+    "id": "c1",
+    "cue": "Эй, Билл",
+    "text": "ты еще способен сыграть на саксофоне?"
+   },
+   {
+    "id": "c2",
+    "cue": "Эй, был",
+    "text": "способен на многое, но робот заржавел"
+   }
+  ],
+  "1241": [
+   {
+    "id": "c1",
+    "cue": "A, B, C - end",
+    "text": "остальные буквы отсуствуют"
+   }
+  ],
+  "1244": [
+   {
+    "id": "c1",
+    "cue": "Активность Вити",
+    "text": "Витя утром начал делать зарядку и так разошёлся, что случайно пробежал марафон"
+   }
+  ],
+  "1246": [
+   {
+    "id": "c1",
+    "cue": "Аванс",
+    "text": "получил, дела продвинулись"
+   }
+  ],
+  "1249": [
+   {
+    "id": "c1",
+    "cue": "А, Ford!",
+    "text": "я себе могу позволить - студент на авторынке"
+   }
+  ],
+  "1250": [
+   {
+    "id": "c1",
+    "cue": "Эй, джин!",
+    "text": "Джин выполняет поручения хозяина и действует от его имени — он его агент"
+   }
+  ],
+  "1252": [
+   {
+    "id": "c1",
+    "cue": "Эхо Д-д-д",
+    "text": "разносится по пещере"
+   }
+  ],
+  "1253": [
+   {
+    "id": "c1",
+    "cue": "Аид",
+    "text": "приходит на помощь Зевсу"
+   }
+  ],
+  "1255": [
+   {
+    "id": "c1",
+    "cue": "Эх клоун",
+    "text": "Клоун вышел на огромную арену, но зрителей нет: он выступает"
+   }
+  ],
+  "1259": [
+   {
+    "id": "c1",
+    "cue": "Ангел",
+    "text": "сел в угол комнаты"
+   }
+  ],
+  "1262": [
+   {
+    "id": "c1",
+    "cue": "Any way",
+    "text": "любая дорога, всё равно"
+   }
+  ],
+  "1264": [
+   {
+    "id": "c1",
+    "cue": "Апелляция",
+    "text": "посетитель призывает судью пересмотреть решение."
+   }
+  ],
+  "1272": [
+   {
+    "id": "c1",
+    "cue": "Сойди",
+    "text": "в сторону! - трамвай поворачивает"
+   }
+  ],
+  "1275": [
+   {
+    "id": "c1",
+    "cue": "Ассоциация",
+    "text": "мысленно связывает разные вещи"
+   }
+  ],
+  "1284": [
+   {
+    "id": "c1",
+    "cue": "Эмвэй лэйбл",
+    "text": "всё еще доступный продавец"
+   }
+  ],
+  "1293": [
+   {
+    "id": "c1",
+    "cue": "Бьюти",
+    "text": "студия - возвращает и преумножает красоту"
+   }
+  ],
+  "1317": [
+   {
+    "id": "c1",
+    "cue": "Борт дан",
+    "text": "тяжелую ношу заберу за борт!"
+   }
+  ],
+  "1367": [
+   {
+    "id": "c1",
+    "cue": "Конь к людям",
+    "text": "сам пришел, заключение - хотел чтобы его приручили"
+   }
+  ],
+  "1368": [
+   {
+    "id": "c1",
+    "cue": "Контакт",
+    "text": "с инопланетянами проводит генерал, он умеет управлять"
+   }
+  ],
+  "1371": [
+   {
+    "id": "c1",
+    "cue": "Конь шас",
+    "text": "осознано служит человеку сознательно работая на него"
+   }
+  ],
+  "1386": [
+   {
+    "id": "c1",
+    "cue": "Крутая",
+    "text": "команда, кругом обступила капитана"
+   }
+  ],
+  "1402": [
+   {
+    "id": "c1",
+    "cue": "Да, зая",
+    "text": "девочка очень хочет игрушечного зайца"
+   }
+  ],
+  "1408": [
+   {
+    "id": "c1",
+    "cue": "Дифферент",
+    "text": "морской термин о наклоне судна, очень разный во время шторма"
+   }
+  ],
+  "1423": [
+   {
+    "id": "c1",
+    "cue": "Эдита",
+    "text": "Пьеха, её творчество не нужно редактировать"
+   }
+  ],
+  "1424": [
+   {
+    "id": "c1",
+    "cue": "Эй, жук, к доске!",
+    "text": "обучать требуется и насекомых"
+   }
+  ],
+  "1427": [
+   {
+    "id": "c1",
+    "cue": "Им бы рейс",
+    "text": "дополнительный, влюбленным не хватило билетов для встречи и объятий"
+   }
+  ],
+  "1434": [
+   {
+    "id": "c1",
+    "cue": "In транс",
+    "text": "вход только для тех, кто готов зависнуть!"
+   }
+  ],
+  "1443": [
+   {
+    "id": "c1",
+    "cue": "Excel лент",
+    "text": "выдает отличную статистику покупок изолент в магазине"
+   }
+  ],
+  "1457": [
+   {
+    "id": "c1",
+    "cue": "Фича",
+    "text": "а не баг, фича - главная черта программы!"
+   }
+  ],
+  "1472": [
+   {
+    "id": "c1",
+    "cue": "Гав",
+    "text": "Собака лает — гав, а между заборами gap (промежуток)!"
+   }
+  ],
+  "1488": [
+   {
+    "id": "c1",
+    "cue": "Гай",
+    "text": "Юлий Цезать - не простой парень"
+   }
+  ],
+  "1496": [
+   {
+    "id": "c1",
+    "cue": "Он — орёл",
+    "text": "он заслужил уважение и почёт"
+   }
+  ],
+  "1498": [
+   {
+    "id": "c1",
+    "cue": "Хью Джекман",
+    "text": "гигантский актёрище!"
+   }
+  ],
+  "1505": [
+   {
+    "id": "c1",
+    "cue": "Комплексный",
+    "text": "уход за цветом лица"
+   }
+  ],
+  "1515": [
+   {
+    "id": "c1",
+    "cue": "Деликатес",
+    "text": "тает во рту — нежный вкус."
+   }
+  ],
+  "1537": [
+   {
+    "id": "c1",
+    "cue": "creek",
+    "text": "У ручья раздался крик! Не волнуйся это грек"
+   }
+  ],
+  "1539": [
+   {
+    "id": "c1",
+    "cue": "Курс",
+    "text": "проклятий, новинка в Хогвардсе"
+   }
+  ],
+  "1559": [
+   {
+    "id": "c1",
+    "cue": "И воля и ум",
+    "text": "придали объем мышцам Арнольда"
+   }
+  ],
+  "1574": [
+   {
+    "id": "c1",
+    "cue": "Клок",
+    "text": "хоть шерсти клок и на плащ хватит"
+   }
+  ],
+  "1594": [
+   {
+    "id": "c1",
+    "cue": "Клозет",
+    "text": "размером не больше шкафа"
+   }
+  ],
+  "1602": [
+   {
+    "id": "c1",
+    "cue": "Смузи",
+    "text": "подали в гладком стакане"
+   }
+  ],
+  "1611": [
+   {
+    "id": "c1",
+    "cue": "Викторина",
+    "text": "принесет победу, но только одному"
+   }
+  ],
+  "1624": [
+   {
+    "id": "c1",
+    "cue": "Пил",
+    "text": "свежий сок, значит кожуру почистил"
+   }
+  ],
+  "1629": [
+   {
+    "id": "c1",
+    "cue": "Пити",
+    "text": "дайте - пожалейте бедного странника"
+   }
+  ],
+  "1638": [
+   {
+    "id": "c1",
+    "cue": "Довел",
+    "text": "до греха многих дьявол"
+   }
+  ],
+  "1642": [
+   {
+    "id": "c1",
+    "cue": "Дума",
+    "text": "может быть тяжелой, обреченной если возможна гибель"
+   }
+  ]
+ },
+ "updatedAt": "2026-10-27T13:22:54.988Z"
+}
